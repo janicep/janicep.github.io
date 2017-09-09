@@ -5,8 +5,8 @@
     <description>my travel log</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Sep 2017 00:05:10 +0800</pubDate>
-    <lastBuildDate>Sun, 10 Sep 2017 00:05:10 +0800</lastBuildDate>
+    <pubDate>Sun, 10 Sep 2017 07:12:31 +0800</pubDate>
+    <lastBuildDate>Sun, 10 Sep 2017 07:12:31 +0800</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -16,6 +16,27 @@
         <pubDate>Fri, 08 Sep 2017 23:51:00 +0800</pubDate>
         <link>http://localhost:4000/articles/2017-09/take-off</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2017-09/take-off</guid>
+        
+        
+        <category>thoughts</category>
+        
+      </item>
+    
+      <item>
+        <title>finding home</title>
+        <description>&lt;p&gt; In my twenty-and-some years, I've called California, Connecticut, and Hong Kong my home. I've spent my summer months in New York, D.C., and Beijing. This sort of itineracy creates certain habits: when you know that at the end of however many weeks, everything must come off the walls and into as boxes to be shipped off to the next location, your conception of home changes. &lt;/p&gt;
+
+&lt;p&gt; What exactly makes a place &quot;home&quot;? Is it knowing how to walk through your house in pitch darkness, how to finagle the radiator knob, or how to shave thirty seconds off your route to your favorite coffee shop? Is it finding that one person who will bake an apple pie with you on a Thursday midnight, or having people around who call out your faults to help you grow, even when it hurts? &lt;/p&gt;
+
+&lt;p&gt; For me, it's been all of these things. And also a lot more. I'm still trying to put together the pieces, but one thing I know for certain is that home isn't confined to one static, physical space. &lt;/p&gt;
+
+&lt;p&gt; During my next year in Taipei, I hope I'll be able to find home here. &lt;/p&gt;
+
+&lt;!-- // habitus --&gt;
+</description>
+        <pubDate>Fri, 08 Sep 2017 02:03:00 +0800</pubDate>
+        <link>http://localhost:4000/articles/2017-09/finding-home</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-09/finding-home</guid>
         
         
         <category>thoughts</category>
