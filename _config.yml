@@ -14,7 +14,7 @@ keywords: ["Travel", "Photojournal", "Blog"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Hongkong
+timezone:          Asia/Taipei
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
