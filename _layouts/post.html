@@ -2,9 +2,6 @@
 layout: default
 ---
 
-<a class="btn" href= "{{ site.url }}/" >
-  Home
-</a>
 {% if page.image.feature %}
 <div class="post-image-feature">
   <img class="feature-image" src=
@@ -30,7 +27,7 @@ layout: default
         {{ page.date | date: "%-d %b %Y" | upcase }}
       </span>
       •
-      {% include read_time.html %}
+     <!--  {% include read_time.html %} -->
     </span>
 
   </header>
@@ -39,6 +36,10 @@ layout: default
     {{ content }}
   </article>
 </div>
+
+<a class="btn" href= "{{ site.url }}/" >
+  << back
+</a>
 
 <!-- remove share buttons -->
 <!-- <div class="share-buttons">
@@ -63,3 +64,4 @@ layout: default
 <div id="disqus_thread"></div>
 {% include disqus.html %}
 {% endif %}
+
