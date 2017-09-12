@@ -8,6 +8,7 @@ categories: [photos]
 comments: true
 image:
   feature: "https://farm5.staticflickr.com/4432/37026325921_b7d0b22252_o.jpg"
+more: true
 ---
 <img src="https://farm5.staticflickr.com/4385/37024790241_70c2432f2a_o.jpg" alt="_DSC0778">
 

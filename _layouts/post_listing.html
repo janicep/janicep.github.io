@@ -48,15 +48,15 @@ layout: default
             {% endif %}
           </div><!-- /.image-wrap -->
           {% endif %}
-
           {% if post.excerpt %}
           <div class="post-description">
-            <p>
               {{ post.excerpt }}
-            </p>
+              {% if post.more %}
+              <a href="{{ site.url }}{{ post.url }}" class="post-title" title="{{ post.title }}">see more...</a>
+              {% endif %}
           </div>
           {% endif %}
-
       </section>
       {% endfor %}
+
 
