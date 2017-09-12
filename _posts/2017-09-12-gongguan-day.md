@@ -3,8 +3,8 @@ layout: post
 title: "gongguan in day"
 excerpt: ""
 date:  2017-09-11 23:04:00
-tags: [day]
-categories: [photos, food]
+tags: [day, food]
+categories: [photos]
 comments: true
 image:
   feature: "https://farm5.staticflickr.com/4416/36371427343_52ab8d980a_o.jpg"
