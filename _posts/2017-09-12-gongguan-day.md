@@ -21,10 +21,6 @@ Exploring 公館 in daylight (read: more eating).
 
 <img src="https://farm5.staticflickr.com/4377/37043166011_3c44a6c8f9_o.jpg" alt="_DSC0849">
 
-
-<img src="https://farm5.staticflickr.com/4381/37043168711_863d537708_o.jpg" alt="_DSC0832">
-
 <img src="https://farm5.staticflickr.com/4351/37043167381_6571e90d9b_o.jpg" alt="_DSC0842">
-
 
 <img src="https://farm5.staticflickr.com/4416/36371427343_52ab8d980a_o.jpg" alt="">
