@@ -1486,7 +1486,6 @@ pre code {
     display: block; }
   @media only screen and (min-width: 992px) {
     .cover-card {
-      text-align: right;
       margin: 0 auto;
       padding: 0 0px 80px; } }
 
