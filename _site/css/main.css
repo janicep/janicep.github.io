@@ -1655,20 +1655,20 @@ a.read-more {
   padding: 5px 8px; }
 
 #post {
-  padding-bottom: 50px; }
+  padding-bottom: 20px; }
   #post .post-header {
-    margin: 0 auto 50px; }
+    margin: 0 auto 20px; }
 
 #post h1 {
-  margin: 0.5em 0 1em; }
+  margin: 0.5em 0 0em; }
 
 #post h2 {
-  margin: 2em 0 0.8em;
+  margin: 2em 0 0em;
   padding-bottom: 0.7em;
   border-bottom: 1px solid #ddd; }
 
 #post h3 {
-  margin: 1.75em 0 1.2em;
+  margin: 1.75em 0 0em;
   position: relative; }
 
 #page {
@@ -1710,7 +1710,7 @@ a.read-more {
     vertical-align: middle; }
 
 .post-image-feature {
-  margin-bottom: 40px; }
+  margin-bottom: 20px; }
   .post-image-feature .feature-image {
     width: 100%;
     max-height: 500px; }
