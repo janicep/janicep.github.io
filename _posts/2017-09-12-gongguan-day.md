@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "oystahs"
+title: "oysters"
 excerpt: ""
 date:  2017-09-11 23:04:00
 tags: [day, food]

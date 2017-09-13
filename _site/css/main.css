@@ -1597,7 +1597,7 @@ ul.tag-cloud {
   top: 400px;
   z-index: 233;
   width: 100%;
-  padding: 20px 50px 0px 20px;
+  padding: 20px 20px 0;
   -webkit-transform: translate3d(0, 0, 1px);
   transform: translate3d(0, 0, 1px); }
   @media only screen and (min-width: 600px) {
@@ -1609,6 +1609,19 @@ ul.tag-cloud {
       overflow-y: scroll;
       position: initial;
       top: 0; } }
+
+@media only screen and (min-width: 600px) {
+  .post-content {
+    width: 80%; } }
+@media only screen and (min-width: 992px) {
+  .post-content {
+    width: 75%; } }
+@media only screen and (min-width: 1200px) {
+  .post-content {
+    width: 70%; } }
+@media only screen and (min-width: 1600px) {
+  .post-content {
+    width: 68%; } }
 
 .image-credit {
   float: right;
