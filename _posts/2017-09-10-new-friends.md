@@ -11,6 +11,6 @@ image:
 more: true
 ---
 
-What jet lag?
+Day 1: What jet lag?
 
 Photo by Kevin Chen.
