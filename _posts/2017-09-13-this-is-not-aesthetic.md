@@ -8,7 +8,7 @@ categories: [photos]
 comments: true
 image:
   feature: "https://farm5.staticflickr.com/4394/37061634146_087facedaf_o.jpg"
-more: true
+more: false
 ---
 
 We finally found some vegetables. #five+aday #thereaintnootherway

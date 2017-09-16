@@ -8,5 +8,5 @@ categories: [photos]
 comments: true
 image:
   feature: "https://farm5.staticflickr.com/4409/37079872532_ea89007b2c_o.jpg"
-more: true
+more: false
 ---
