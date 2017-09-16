@@ -7,7 +7,7 @@ tags: [food]
 categories: [photos]
 comments: true
 image:
-  feature: "https://farm5.staticflickr.com/4408/37017403776_5759fa28ba_o.jpg"
+  feature: "https://farm5.staticflickr.com/4394/37061634146_087facedaf_o.jpg"
 more: true
 ---
 
