@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Taiwanese Ikea! Automated soft-serve!!"
+title: "taiwanese ikea! automated soft-serve!!"
 excerpt: ""
 date:  2017-09-15 9:30:00
 tags: [food]
