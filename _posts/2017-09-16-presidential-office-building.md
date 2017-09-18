@@ -2,7 +2,7 @@
 layout: post
 title: "a too hot museum day"
 excerpt: ""
-date:  2017-09-16 9:30:00
+date:  2017-09-16 9:32:00
 tags: [museums, food]
 categories: [photos]
 comments: true
