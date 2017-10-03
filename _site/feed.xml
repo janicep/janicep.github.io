@@ -5,8 +5,8 @@
     <description>my travel log</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Oct 2017 06:51:22 +0000</pubDate>
-    <lastBuildDate>Tue, 03 Oct 2017 06:51:22 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Oct 2017 07:10:22 +0000</pubDate>
+    <lastBuildDate>Tue, 03 Oct 2017 07:10:22 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -16,6 +16,32 @@
         <pubDate>Mon, 02 Oct 2017 18:46:00 +0000</pubDate>
         <link>http://localhost:4000/articles/2017-10/a-monday-night-dinner</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2017-10/a-monday-night-dinner</guid>
+        
+        <category>food</category>
+        
+        
+        <category>photos</category>
+        
+      </item>
+    
+      <item>
+        <title>a dumpling birthday celebration</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/zCTykKDNFt8FvgoZCyVGTClwbSZbGUoHTG6CVbhj97B2tHOPu6-sttL_0Gjb94msKHpQXIR4QiCNHQt-bkXLlrPcdp5OkaIrE8p8XpM8Ml6P_nYCyxPBkeCsCs9_68Eg4Jvnih57GFuCSvePktKlr3B-1IYZ4h4orNuIIbe-aawThqQQnJvglUG89zyfwrz4z1nYFMyUYUWvAXJHT49FjrmKmSVB0I-dzCE65JDlQ3XyQgPNiWnCpNK2vjJqWauhwS_149HxopgXSn1M3xVuRKAKxwkHTNuhkqI_bdgdACNycB_u67cWTzytE83i560cMhXTyovEsx-39gCkwIic7OxYW2OuyL8O5RnXpCGh2l-QMvo5LA251GcqAdDs8v3LM0oMUgkkJN5vaD8H_wk4Yo-SRUrZKjBEDQi50KUBYgg8MP2zQC1cYBLzRqUhQxqIiAiROVB3qDSlbxQl1ugT6f7S4f8cxID0nT5oaDU0AZJIQh2q9xyJTGUqwUrWwH7AMdNX0g4loVIXEQzMonwY77jaE0N_1yaTWDj2mKxVOU2OUXFSivlQi9MifyOW2RA00YeUETAcaxY_YoVC6s-sy6GftedVjhhScUBgaGRPPIOpC9HfT3Zsf87JtUdnFW2idW5EDftiMDdfnDFhyBBm9tcyV-7xIVEhidg=w1410-h942-no&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/ISFGc-gXFL4wFcfgxcgucanON5_4v7LIaCk7g-605-AFGeQNau_GoQYlEBizlP159VL2apnPXEP0qS3zLjwVSfhvGb_2XvTaN-qO9VMYwtAG1levAxzRYCnWpM91w6ni4u1VdxdOZBUJTVHVzW1MEMAyFYj8jAzei3UY_RvaLj07NvxVphEqxbdVtMBavieqCAs4YYjPy_Ds7N9KYFbJ0kGEU7CHytjnJI4akM-ThPy7qSnHhTUO51PaoJYUUuAt_yJrzWgPmD17V7PiLgrUxB0nAAspGnmo1ozKGZdViC6XH6fS4HfWcD8QDr2ezO_YSiBlSXYwOFPhEcoO6wDrs_kF8bOtuaBTlY-LAte3M9HLl4cmWZX0p2zLuPenet7dtrEcHXr9x3dZ798kZT8OrZAafZF8o_J-_qAn5KcGBm_2SzpeqxqSnne7X-S4GM1WCMNe_HZFgZLyq3njpMS_BQCdhvxrdoguzdIBrzZ1gqd8OYzIZqPpsRt03WvE3NEXtBgbiZpCiA0aSZ2xj-SmdyziPPOMaD4yuJAwgVdX5qDdRq906W0G5q2KBIjVIPFOBiHLKJ0Eoo8jW7v239tctzw3Uq0-abjid8AfRe7lspOdSDe5E8wuxzcVgK6mCcsfFhupfyH-yhjQLRvfOznD8NaSwuUsvV8grYY=w1410-h942-no&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/YJWyFbp4CpyRppxiLyU3uBqsdkLc_WTQ5ODJpmbSsp69lHMo0PDBnfTRwauY6oiDlmPV9CZl-et9rkkN1Llg_DhEPLXGRJAOlhkAGc8apphhGybg13HUwHHLuGm8go4n9aPZbPru-dR63qP7rKqPEGxdZnvjkHpzgZ1BBaHXflb7WTQ8EUG8Apip4IH755QkhQQGE4KVuSO724CSbdewoDlCAsDvt28YbvX26-2exk9D8UAok05S85SjRR24TcAAnsG6zR2vSut0BZDNsCuZ2v5B1VIAsel1sY9oLlltAFNa0qxQCjErC6pmgNSG7kpMT3hR_407J4Il-BQcfePME7reBlrB8sg1fb2i-V4AakfLEdqruD1R-NxUWdO-7GderygDagULk9Bkhctbr87sOnw6SKfXOYHPpsUJZlXWQ3v422npWK-oUew6DslqYvzWyavB4g5qTIbz8ZvJYm6YkBzbSwDCq-6gZGm-6k8dPCHd1JE7BduaW24J1-ErC2JYTJhcmpbaQX3nZEZyHd35Q9qei4Ck2zIpLpuLGapo_eNbl2TO4ag5X8VLh7ohMlGIaWYvR4n0nacmnZlCM6jucz6LKKHBFdEKJ-iHlTAQ_swkVvBYDu6PEQu2AN9AQB4R8RXXo2KrgCBVN7sjib6u1VrkBDOFMiabibU=w1410-h942-no&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/91ajSjxFSjrx6s8JLzDDHMTJeSvw-gjgiLf_gc1nEd3_mxOEnHSxO3omAawHInRMqx3u9zDFtae51Uzshd8sXqU8v8ITllVk2gC86ooTS4ir5W3ebGgizQUt5GpEeQHAlKNkx57Sz7mn66t0Ldz7Rj6Gng2n7L8IGJXZXi1cU4VRS3Tabgy2FRuwtZiuoRX3s0CgW8leiTxFohgUo7M60_1CPT7ynUMSGYk8D1uuGP45K8T-8QH3etnmZDXmoNJH4FnOxDYw7NiJ27XGOJOUwiKJWK9IpCwd6VEtzDRO95QefGKrxk3VjAfiUmy58egQYbmw_psh-it2yxZMb-Jx54ygcYA6BoU7crSeEpQyg1__j6vIkeVrVPWzRlO-rC4eX7R2dwDKgNP0NpDF52i70EAMDuu6-Lbva35HtKA-CctVtS66yAcEgnYRtuPKnIyV10uV2AKJsQI02iYohuvi-BL2_Y7ge57izwTZrI9oSEKrPJRu1lLmnVTjlNtaPjNqka8sOzoVP9GeLvAbh4bfpzVAIvK8YLPBKp4UwIo7wK6yXHR1bTY2upg4XiQ-6JT3W1PQPZ6gY79sBDytql0oxt1pfMaahe_N7O67fgn8QeOing9GdAgfnrwvpm7ruRQO6AXSvWMRyr4wQKoEbWrlW1BKKsggPgcah7g=w1410-h942-no&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/cX9S2Hlh6AUW8gNLqlfk5BsKnsJP0jilaAA6fNG1DnvSamcURSgGEBGr4xt2LY0oOksiflQTum_WxYrPeWT9Xc1k28bgWid9DHJZ-Zdi-uEK4pmOLI4mqc23teeddhDv_TzUhFE4wPG8MyVOORQuSEzCyLRacb3DC1WDSxmVr_XLL9gSJL2SHbMC9JTKGHVnKTfakWVrQY3xbpcuwh_aG3SPNW0zmY5EYoqrtYbRVQT6E1iIk70n-NrMIh5ethjw62o7H4tIW9bXorR_GiYzioxIJF-Dfl-zmwMu_DDr3p_q_yvV0HD3lg0pVpzHRL5NCtY0rlb5k-u_6U2RJJ2ZeLPol-w3jmYftT2fETAQFtBEDG7Ryuxd5l9kB0x-DL5B2EewrStvYZ9SmhdQouCBmg9soFXrRuIHG1Q4OCjwvkm3w72tTHKJGnm5d_OLBJ-lg9eZRBJGwP3DGxQvNG0iBo9VW13egC6ARAAODHYZLw1PgiPMsqvA4k0txYkgU8_GigIvUorlx2hPisrvk8NDztwpO0j3TYAqqHUZ9B0zAs7WcOo_-B9PHwaqVJ3CpnKOPLoSRY8RAG4q-hdxCkr2nE5gJcGsU-A9akS13_sqFT_iBHHSafD2mYC-poEuq8wt3KvhgdFhjz4TI8bsIpqN29A1ZwK0SB4qv2A=w1410-h942-no&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/0Wr-VMmEzpxdxs7dD6eDMxbJw7Qsy9loztJRfHWWCWq9GsVFgKOP6ITzKjm5PVvPeSZRLHb2W8sytT3niNGidFjNnyG3uNYZ_IB8jwSMrSCqOADFAIfuIS4wSnVUaqvxbqyk8YZrwu7oZobTkjO2Sf1Lf7Qax3lw7N2u7bwnu967jEiQN4LfAeRviGey5scvZGLWLoFK2IOXp31Ra06S3nVbTBzJE1XiiH0TuzHXeaP7qn7C7jkN85ruzULDuERffwBcWl9qdAYNFn6DhL4hoWxHdrzw0Eiy7xOPmwaqqaZCvTl4o-5D6ggEeRbeTgHJssYxgZ23zSCG7O13_TDfbIW4RDAraWLgGF0vwZpCdB2at0rd9EFLs3e8_zDtODXQLEAVnqEL-gnMS65xRfXv6BNpjHyUqBhiKDB-BpTzkDJ_5ReTjdFhjWQ2I6Y20WY9rFzh4xP_u7KR_BrEmaxRsmE3XuWxR9ccSTdh42ubplT7KpKaUjAS9qrQOX40eJNzaJV5OL3fKSLRJ-_gj4gxOadpnclWepil-VeRmSY4t6KSG550ab5zo8P9_i1cqMX5HfivYk_yrzp398FnahigAOK7K_nZRQ1m6UfANjsCTpdrLjDSS8LB4-drn-cIUaXElSx2UtFEClDWmKhgek42OX0uJDFo4bIG7tc=w1410-h942-no&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 01 Oct 2017 18:32:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2017-10/dintaifung-birthday</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-10/dintaifung-birthday</guid>
         
         <category>food</category>
         
@@ -46,6 +72,32 @@
         <pubDate>Sun, 24 Sep 2017 21:00:00 +0000</pubDate>
         <link>http://localhost:4000/articles/2017-09/hba-reunion</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2017-09/hba-reunion</guid>
+        
+        
+        <category>photos</category>
+        
+      </item>
+    
+      <item>
+        <title>day trip to hsinchu</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/zCTykKDNFt8FvgoZCyVGTClwbSZbGUoHTG6CVbhj97B2tHOPu6-sttL_0Gjb94msKHpQXIR4QiCNHQt-bkXLlrPcdp5OkaIrE8p8XpM8Ml6P_nYCyxPBkeCsCs9_68Eg4Jvnih57GFuCSvePktKlr3B-1IYZ4h4orNuIIbe-aawThqQQnJvglUG89zyfwrz4z1nYFMyUYUWvAXJHT49FjrmKmSVB0I-dzCE65JDlQ3XyQgPNiWnCpNK2vjJqWauhwS_149HxopgXSn1M3xVuRKAKxwkHTNuhkqI_bdgdACNycB_u67cWTzytE83i560cMhXTyovEsx-39gCkwIic7OxYW2OuyL8O5RnXpCGh2l-QMvo5LA251GcqAdDs8v3LM0oMUgkkJN5vaD8H_wk4Yo-SRUrZKjBEDQi50KUBYgg8MP2zQC1cYBLzRqUhQxqIiAiROVB3qDSlbxQl1ugT6f7S4f8cxID0nT5oaDU0AZJIQh2q9xyJTGUqwUrWwH7AMdNX0g4loVIXEQzMonwY77jaE0N_1yaTWDj2mKxVOU2OUXFSivlQi9MifyOW2RA00YeUETAcaxY_YoVC6s-sy6GftedVjhhScUBgaGRPPIOpC9HfT3Zsf87JtUdnFW2idW5EDftiMDdfnDFhyBBm9tcyV-7xIVEhidg=w1410-h942-no&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/ISFGc-gXFL4wFcfgxcgucanON5_4v7LIaCk7g-605-AFGeQNau_GoQYlEBizlP159VL2apnPXEP0qS3zLjwVSfhvGb_2XvTaN-qO9VMYwtAG1levAxzRYCnWpM91w6ni4u1VdxdOZBUJTVHVzW1MEMAyFYj8jAzei3UY_RvaLj07NvxVphEqxbdVtMBavieqCAs4YYjPy_Ds7N9KYFbJ0kGEU7CHytjnJI4akM-ThPy7qSnHhTUO51PaoJYUUuAt_yJrzWgPmD17V7PiLgrUxB0nAAspGnmo1ozKGZdViC6XH6fS4HfWcD8QDr2ezO_YSiBlSXYwOFPhEcoO6wDrs_kF8bOtuaBTlY-LAte3M9HLl4cmWZX0p2zLuPenet7dtrEcHXr9x3dZ798kZT8OrZAafZF8o_J-_qAn5KcGBm_2SzpeqxqSnne7X-S4GM1WCMNe_HZFgZLyq3njpMS_BQCdhvxrdoguzdIBrzZ1gqd8OYzIZqPpsRt03WvE3NEXtBgbiZpCiA0aSZ2xj-SmdyziPPOMaD4yuJAwgVdX5qDdRq906W0G5q2KBIjVIPFOBiHLKJ0Eoo8jW7v239tctzw3Uq0-abjid8AfRe7lspOdSDe5E8wuxzcVgK6mCcsfFhupfyH-yhjQLRvfOznD8NaSwuUsvV8grYY=w1410-h942-no&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/YJWyFbp4CpyRppxiLyU3uBqsdkLc_WTQ5ODJpmbSsp69lHMo0PDBnfTRwauY6oiDlmPV9CZl-et9rkkN1Llg_DhEPLXGRJAOlhkAGc8apphhGybg13HUwHHLuGm8go4n9aPZbPru-dR63qP7rKqPEGxdZnvjkHpzgZ1BBaHXflb7WTQ8EUG8Apip4IH755QkhQQGE4KVuSO724CSbdewoDlCAsDvt28YbvX26-2exk9D8UAok05S85SjRR24TcAAnsG6zR2vSut0BZDNsCuZ2v5B1VIAsel1sY9oLlltAFNa0qxQCjErC6pmgNSG7kpMT3hR_407J4Il-BQcfePME7reBlrB8sg1fb2i-V4AakfLEdqruD1R-NxUWdO-7GderygDagULk9Bkhctbr87sOnw6SKfXOYHPpsUJZlXWQ3v422npWK-oUew6DslqYvzWyavB4g5qTIbz8ZvJYm6YkBzbSwDCq-6gZGm-6k8dPCHd1JE7BduaW24J1-ErC2JYTJhcmpbaQX3nZEZyHd35Q9qei4Ck2zIpLpuLGapo_eNbl2TO4ag5X8VLh7ohMlGIaWYvR4n0nacmnZlCM6jucz6LKKHBFdEKJ-iHlTAQ_swkVvBYDu6PEQu2AN9AQB4R8RXXo2KrgCBVN7sjib6u1VrkBDOFMiabibU=w1410-h942-no&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/91ajSjxFSjrx6s8JLzDDHMTJeSvw-gjgiLf_gc1nEd3_mxOEnHSxO3omAawHInRMqx3u9zDFtae51Uzshd8sXqU8v8ITllVk2gC86ooTS4ir5W3ebGgizQUt5GpEeQHAlKNkx57Sz7mn66t0Ldz7Rj6Gng2n7L8IGJXZXi1cU4VRS3Tabgy2FRuwtZiuoRX3s0CgW8leiTxFohgUo7M60_1CPT7ynUMSGYk8D1uuGP45K8T-8QH3etnmZDXmoNJH4FnOxDYw7NiJ27XGOJOUwiKJWK9IpCwd6VEtzDRO95QefGKrxk3VjAfiUmy58egQYbmw_psh-it2yxZMb-Jx54ygcYA6BoU7crSeEpQyg1__j6vIkeVrVPWzRlO-rC4eX7R2dwDKgNP0NpDF52i70EAMDuu6-Lbva35HtKA-CctVtS66yAcEgnYRtuPKnIyV10uV2AKJsQI02iYohuvi-BL2_Y7ge57izwTZrI9oSEKrPJRu1lLmnVTjlNtaPjNqka8sOzoVP9GeLvAbh4bfpzVAIvK8YLPBKp4UwIo7wK6yXHR1bTY2upg4XiQ-6JT3W1PQPZ6gY79sBDytql0oxt1pfMaahe_N7O67fgn8QeOing9GdAgfnrwvpm7ruRQO6AXSvWMRyr4wQKoEbWrlW1BKKsggPgcah7g=w1410-h942-no&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/cX9S2Hlh6AUW8gNLqlfk5BsKnsJP0jilaAA6fNG1DnvSamcURSgGEBGr4xt2LY0oOksiflQTum_WxYrPeWT9Xc1k28bgWid9DHJZ-Zdi-uEK4pmOLI4mqc23teeddhDv_TzUhFE4wPG8MyVOORQuSEzCyLRacb3DC1WDSxmVr_XLL9gSJL2SHbMC9JTKGHVnKTfakWVrQY3xbpcuwh_aG3SPNW0zmY5EYoqrtYbRVQT6E1iIk70n-NrMIh5ethjw62o7H4tIW9bXorR_GiYzioxIJF-Dfl-zmwMu_DDr3p_q_yvV0HD3lg0pVpzHRL5NCtY0rlb5k-u_6U2RJJ2ZeLPol-w3jmYftT2fETAQFtBEDG7Ryuxd5l9kB0x-DL5B2EewrStvYZ9SmhdQouCBmg9soFXrRuIHG1Q4OCjwvkm3w72tTHKJGnm5d_OLBJ-lg9eZRBJGwP3DGxQvNG0iBo9VW13egC6ARAAODHYZLw1PgiPMsqvA4k0txYkgU8_GigIvUorlx2hPisrvk8NDztwpO0j3TYAqqHUZ9B0zAs7WcOo_-B9PHwaqVJ3CpnKOPLoSRY8RAG4q-hdxCkr2nE5gJcGsU-A9akS13_sqFT_iBHHSafD2mYC-poEuq8wt3KvhgdFhjz4TI8bsIpqN29A1ZwK0SB4qv2A=w1410-h942-no&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/0Wr-VMmEzpxdxs7dD6eDMxbJw7Qsy9loztJRfHWWCWq9GsVFgKOP6ITzKjm5PVvPeSZRLHb2W8sytT3niNGidFjNnyG3uNYZ_IB8jwSMrSCqOADFAIfuIS4wSnVUaqvxbqyk8YZrwu7oZobTkjO2Sf1Lf7Qax3lw7N2u7bwnu967jEiQN4LfAeRviGey5scvZGLWLoFK2IOXp31Ra06S3nVbTBzJE1XiiH0TuzHXeaP7qn7C7jkN85ruzULDuERffwBcWl9qdAYNFn6DhL4hoWxHdrzw0Eiy7xOPmwaqqaZCvTl4o-5D6ggEeRbeTgHJssYxgZ23zSCG7O13_TDfbIW4RDAraWLgGF0vwZpCdB2at0rd9EFLs3e8_zDtODXQLEAVnqEL-gnMS65xRfXv6BNpjHyUqBhiKDB-BpTzkDJ_5ReTjdFhjWQ2I6Y20WY9rFzh4xP_u7KR_BrEmaxRsmE3XuWxR9ccSTdh42ubplT7KpKaUjAS9qrQOX40eJNzaJV5OL3fKSLRJ-_gj4gxOadpnclWepil-VeRmSY4t6KSG550ab5zo8P9_i1cqMX5HfivYk_yrzp398FnahigAOK7K_nZRQ1m6UfANjsCTpdrLjDSS8LB4-drn-cIUaXElSx2UtFEClDWmKhgek42OX0uJDFo4bIG7tc=w1410-h942-no&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 24 Sep 2017 18:32:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2017-09/hsinchu-oxford</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-09/hsinchu-oxford</guid>
+        
+        <category>food</category>
         
         
         <category>photos</category>
@@ -219,46 +271,6 @@
         <category>night markets</category>
         
         <category>food</category>
-        
-        
-        <category>photos</category>
-        
-      </item>
-    
-      <item>
-        <title>look we found a temple</title>
-        <description>&lt;p&gt;龍山寺&lt;/p&gt;
-</description>
-        <pubDate>Sat, 16 Sep 2017 09:33:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-09/longshan-temple</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-09/longshan-temple</guid>
-        
-        <category>temples</category>
-        
-        <category>night</category>
-        
-        
-        <category>photos</category>
-        
-      </item>
-    
-      <item>
-        <title>when you happen upon 火 walls and claw machines</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/0qIOzjmciwZBHLvUeBULp8fYK79X0_k0XfR8MGqEC9Jj0EHUSjjciN_m_q33B0L0aa7jEverShHYc2srqtT5u2i42ZOsd70HSERFG_N-hrGTpTy1h7PQca3SEVT-o4SGo24_T6kkzzR6qYrtZBXhd4T8eEvAF3mb3GwFS1kRbr4QFBxIxu9MehKyzU0qvuO0ZlstkgHfm_ChltMFOiz1d0ReMytQaDDwlViMJsLHDILyw3OV30E0HliYynlwn9iOl4BOMf7rild1Tn0E0Z3DramzmJIpu01QPfUKOzx7p-Qm_Bf3xGLxCSQrxLgPUDFfK6amWDOe_U4n2H_5Jlk9H05KOY4_9Gtnn9LGU6dVU4sLTlt_J-hbM5PShr0ZMyqvBk1yLXMK12cYNpHwFfXPsjrPJqAEI56k4r4roVcRARh_LZCnwv54ZSXSP8TUYWh3fdCdgfo7x_ncgJ1wOAma2XWfDEaE4Lc33Qh9kpqVGZDwf4oAaAPPlj8kSe748UE-dIrLDHOceoI3MbDVUBJ2Ze0tNuRiDZ-SNldPzmRNEyEugfaMiYAThJTXNAyVQtKtZQDDohu-I452oNL_sjrBHhJfklKTkZDeTDniBG1XwUJ1p52T_HGEMw-BHZMElQeBnt2vbwSeQ5qe6Q0FKwH1iWruYFYmYELDCLE=w1412-h942-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/2Due3DNjHMpO6pYklkMDi3i1G6wl8xBm2AqXa_eJW12ODeHaW1_iO60ctktEo5XbWGddmVsS4PVgkURB0qUSiKtjI2-31wbMmndTpJwQUIEhwC8NXdUtvBpBeTwsiERzh2xmYetEiC19M6VfjbourQ-O2iTz__8z1pWeSaVPQGQczgkQb40H-jA7uBuoiHvjTsXZkNCgcWLR7rtI46DUa2FyPYBEcQF7p6hFegJh3TIkYpc-Rz6x3P_tIcEzvFT_VFR2vptwznYVW_L4cnF4xnJTG6KrA9Ct0BscRD43nPW7r_KdJ2R1cSzWFeSkPNx7NBeXM33GIIiSjf6yeKfdV5MrotbB7Yv1RwYxjdyntajANmYcTMSBcp_lQjr6XrZGeyXTiPTEZgVIFZg6aPMhK9ypMMAnQRn_4Tr0ocohNayui7IvOMAoSU4JmCGL7KpJXWSGQHl1vhV-qn-XDOBsu6XTudU6fVXOUbkBSwnwtkImnZlgpFwPTvRJMTUvzIKD6hJWQSfpQBNXUomJZ02Jk4px9yqNtgorVLgHtMtskm0PPLAI5zXC4C58oE303ANp5r-qo0lQKTvLjsJUYbt1L_LA6A-Gnzefm1en-BP3Uy2osZP8wUK3zBqz0zwPpyaOsqUJENRamefZjTig2mUiUiCaRQJDdqYlqVY=w657-h439-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/uogIPjpClYjcvwWyfx7l7vjPOq0lGKY3TGPGm-oFdRSe3vGO7Xfmsls3LgZydHUBZGoKorUGUVnn9SO4FY2NDQcjm52Pp5zddkRFulJxJPSicGMPIBpcKRVL7_DEHPItA6c-NqX9952orEX8s9qo6o3nJAtJVqONxqAH-MyII4S6jhhpXIxjezYvQFJMamHK6oheZss4CXWJ-iQxyxXINEkGh0jpgaEBGZWzBwl2F-30_4VtHUTMbYT_6TR8Bqww997DRl-KNRxrckUECHEEv5GdvjTh8JcrnRb4Bpjyrx3S9_vjKcNPEDtxdotkopfOOgccTkcRjuFRkzGBQtvKh3deJ8BX4jCF1Z-Dr6hy37nx5FyyZyU9GUQYQEzzlxWk5S81qeM22OjjFzeBmwXZJMBqUaG1WsVMW4JMc36Lf6Ed7ExZryILFxW7iNkzDsSIOI12ztCtKzKwTzh3qLHDMTI5K4cTkdJxKensTpelziYrpWYhRa6eUiQCx87-XP4_hnhV2pIboiMZnVmO6tBBfiq7gEQEL6pjNL9vwZR-GenalNOVsvujVjDjzWadXuasbfybtoWz25zdY-hEoe23n8zHLb5pzNiaatb5QTwihm2QyTF0MjU5JQKwULP7RhoD9NZjAxItm0Mn7h36dH9UTW7f1YFfpJ86yl4=w1412-h942-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Shock when the claw doesn’t love u back&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/VrC8ZXKxNUOWDDDKr6goSyiNP6dtfdZlotyaKSXY_F35TPQ9oBnz_iUWLI4NPCcd4k4L4bXrmuYfHcl-dMw9aG8YddSqonSPXh2dLtnkAGwBfGQV3B69QSSLStX0NboGq3-ikYlLlewgPh5cy81Q2yPlQSmH4cHcMhhW2TXHdcXK_1n4U6NXOYAf8Eom4seHtmJV--IXFcQcghRJklx3XgkuJc03wWscOhxW0eGJHZZySXjLWxinG4UrTWdNQtQGWM9-SoRFUl1ZD39Orq6fMyh5jQ1CmD-LL0iAwe-W7gzjRil0rZ8GL9PKRZT7fwHaruem-eyJQsCpYOILqRAdcSsO8Aqlz9kFbOrBypIevOHQNG5oTxGROTM53CKi1yb543hnF5OCevWNZP3Jxs0NyuFdlBrw9Nxvm9s4E0g8sYHXcg76TLyTI44UwdGegDMedOavAoCiuEB3CBCk2mkwI8TtozCqIX9UMUC_RL_371h9QzdDgZswreFhgcYkeKkh3uEDdCiPXKBqdH_dJU4C3PrEGz8KpAKNZXGuj9nhqehPej606kGe2x9hYQ8DYARL5xyJP1wyZrSlufVN8OueSojaiXEJ4kz7W85ofICj1G1ihD1ZQmhFnW7XCPOG3hdhcx3q8tlCylC_imQDHQ3xz0baWCSneXm51pc=w1412-h942-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/OrNAcoRJlstHdh8oLqw4nyK2QU_bYWnLNBjqViTrQY2IwdWW279CgwRWN8SOOzEwY_tpOnkf73QopUUbTbXDLOkXeRdCd3L_XHoTj_3ie2dSqyrg5iwYeJcqnOpNVoe5ehUWc57cKl8RXiVMjGvExu21AtzhbqBFK830GjUV9-AqqcTvPOeQVPOzCapwlLEUwOJK167qg-OdAAdvQIyjeMPJAV8Q_k1DWUJgb5hsQtxdpBNVlbchEML3nlFtPvAnJlNVbeWfy4wBiECN80bxkojAys9e-L-_D4yQVpBIGhmmxDNhxOCA1aYmoWiziLKiGmZDuMI3bxfoPPt2EGmEqt8MUU1kn2D48uzpElp9rPKvp0jHItJn_pkB8Yj_YnTDjJ4yc98L0NyN2zJ0ndbueF59Vhp70jvn9kQEESp5bhiuz751hp6fWyIkw-A6iK9UhKAxlLzpr1inweVoZocSDX0aRbYliflovkWnpvI9Z8r_cnU0SZJMx9YCC-GbPvSgm9VszNNE7j0U-Ss5bTYN-eduHqUEwhnoTBa5A4lwhN9s5GUrnBEo3Rb3aX838A_TzvzjIqR6XfAA4eE8XbEH0i5QI6fDzLX486S9GZR8rti5835xqd2SFRvF7JRXoA9BfD1UPkXtgoLsFQpJmJPUJb3_AWlsshfc-us=w657-h439-no&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 16 Sep 2017 09:33:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-09/claws</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-09/claws</guid>
         
         
         <category>photos</category>
