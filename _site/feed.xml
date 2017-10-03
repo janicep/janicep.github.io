@@ -5,9 +5,52 @@
     <description>my travel log</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Oct 2017 16:00:44 +0000</pubDate>
-    <lastBuildDate>Sun, 01 Oct 2017 16:00:44 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Oct 2017 06:42:21 +0000</pubDate>
+    <lastBuildDate>Tue, 03 Oct 2017 06:42:21 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>a monday night dinner party</title>
+        <description>
+</description>
+        <pubDate>Mon, 02 Oct 2017 18:46:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2017-10/a-monday-night-dinner</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-10/a-monday-night-dinner</guid>
+        
+        <category>food</category>
+        
+        
+        <category>photos</category>
+        
+      </item>
+    
+      <item>
+        <title>guqin lesson number 1</title>
+        <description>
+</description>
+        <pubDate>Wed, 27 Sep 2017 21:00:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2017-09/guqin-lesson-1</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-09/guqin-lesson-1</guid>
+        
+        <category>extracurriculars</category>
+        
+        
+        <category>photos</category>
+        
+      </item>
+    
+      <item>
+        <title>beijing -&gt; taipei reunion</title>
+        <description>
+</description>
+        <pubDate>Sun, 24 Sep 2017 21:00:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2017-09/hba-reunion</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-09/hba-reunion</guid>
+        
+        
+        <category>photos</category>
+        
+      </item>
     
       <item>
         <title>visiting the once-home of the Atayal aborigines</title>
@@ -43,6 +86,21 @@
         <guid isPermaLink="true">http://localhost:4000/articles/2017-09/wulai</guid>
         
         <category>nature</category>
+        
+        
+        <category>photos</category>
+        
+      </item>
+    
+      <item>
+        <title>trying something new!</title>
+        <description>
+</description>
+        <pubDate>Wed, 20 Sep 2017 21:00:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2017-09/aikido</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-09/aikido</guid>
+        
+        <category>extracurriculars</category>
         
         
         <category>photos</category>
@@ -202,82 +260,6 @@
         <guid isPermaLink="true">http://localhost:4000/articles/2017-09/presidential-office-building</guid>
         
         <category>museums</category>
-        
-        <category>food</category>
-        
-        
-        <category>photos</category>
-        
-      </item>
-    
-      <item>
-        <title>extracurricular spectacular</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/nJ6I02cPw39tOCvUhZfQS5zC6qT89SF36uYzDjSFiXDPGOebU2g8iLqND_CF-nvY2owmL_3zG3HMQl5IZQISFEkn7feFBaDXn273nX7NYwVul3_sSuJtIA4K6BOLCU7pBepk1-HDP-JwSphWiZ3-gl34Yk-iUib_ykKCirZmtlMR0-CHI1G8hYTRU0Cz6oc0wh9Yx7hJ8b3gmJAMy-ZqfJPKhwEN2xDqisMkb8sbFALlwQsUOkad1QTN9MdU4AhchkDjAatygIQO3wbY785imYy_n6NE9i70Cjpu4V61fWsC_NRw4xNA2P5ixP6-RbolgKzZgF2vQr9hmTFUWD-axOWw-dRF60x0T4vHYir4DD2CbrAhzNlSKHbBrACUjsTx52fGw_2aRGHHsynA1L4FqXCQAFfADG5DabeD0bkNoM1q2TH5B_AF4vfcVmUnPOemzr5FOT7K36IVwsXHJ9y_bOcyb1WZHCZC4J6Djm7MUZfqecbVoicqySto0265IDTj059z50krb6cv9cux9rmcXabkEygcP2QNlSM1CqN6fyY7snYjvtAUWu3SdKUIdFNCmw0oasVTUJfQ4KeJ00jaiGUdP-qa5CaMUdv8H1t6szpV4B4XeJ7b2r6bY_Vyf2ixZ0AsbKfh__vtJnURpqvNzlS7dmxCjLxkk_U=w1412-h942-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/ZUIEllAWAYdPUcEXVRvcHkyPv8qqtTCWLq2NitGJG5pOwV-AQYipuV4ka3udngtFEMXBw3fcTQyUmjf_LStgFNDunui4McW-dJA_rnIeMJsBuIxvYJSAtsJy2MbzC3lfFBJOLGHAEFOE_MlEcbK3heorzMQSI98DcEa4M5mjTPomN9XxUjKoW0wgvncCgoCNeV_A8KjbUUAKz3didNbk1Ka6lcILy4a_SJYof1ggeXvfsxaA0NL5lVD8mrTNtFPcEozy_E1Ixtw1iTKaCWdKXaAJvhKk1m3Tbik8p8d-l42WjAhwH52UpQXILjuRcC3wCtyFj43tSIc78LJVrcqBDv8YfrULssQmB2vF3Hq6jacZQFTJWlIvGbPjZ-fMSRssCJ9bXznFQTpDr-w7Yp9lySHkWUx89uLNvI8jR501ZPRwg_4AZupxAFFiheOO2zDUYuqGDULeGNcThBSH-fALgO1ADiETPvjy6IT4Ksfl9iL2wxUBGCnbvz6kaiuzbyBUe9kGTBDxod90YHmtS3sosW2KmgbI9cxMCi9zQgND-h6ZOJ6JZts6GV9I6TW0UF9PA67iAJvhabeZDerSUbRNtTia5-_-eOAv8ydP8X1WHg=w1410-h942-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/zvVaskpY6g_6LMV_6FlTONR6YzHXAP1a_g_0W3WMEFqJ-syTKf58aAC1QWBV8D6PsSj3ZkSxNmnAAriVRMJIaOgTrmqklZde2ahUw1XGjlncsozz4dWzHpvyXBnyQ12iVyAxVR-yNKd2aecRCUYrbrUXC53SzKQKGoH-dggB9GjojC-M4ImZNzZE0x0ZEqicYAmzPJM44ScWgo3of9OYYKyF7zsqYPqjfeT44GIAnbZ9_iFjtaE2HsFISSCP_y-8b0GTtqqE6pJwwJbLksgE-3Oo_f-udUEBwFRcE9hMPZcBRSIXk35GRW91RZMx_hzZQb2XQC1HgqVkaQmW1IqouRAH3DisR8oOXMtEPL9Ji7V-LfcIOulbeey8C7FqOq3ZgD3XbLADvR1xQc5K5NzUysekKLR7IKYV_EZQjcC-QAflANXICUG90UwRKw8YmAZIiDBZ97G1-1X23GjfsXyb4ybDKB_PxiF9FzksyHqv-7ra5Cy5Qb-iRs_9Ioo8VXBLXu0HvHdO6xhOgl6FmrXXa9L7sioKskBqLDZFPkY3xxApm9MOZYDkCrYGAZqAkbU7A3O5zmLZYWIyiI7Y0cAgmIn8Hd-QVCrfD55fTTGvTA=w1412-h942-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/aC9x4cdaHPcyQ6ZjxSs8pee2KPgq70cjxEcGXDYm4ENrgy7qC5SieMViwXO_H7lDwAEKz_rT2hx4Qv5sKBg5AdMh3Nby6MJrn-Jx-oG2yYTr31EBP0PzYJKkp4NH4u8_kb27Q77B4-3VUuE-oQOoS9OxRYeeW2woxvMk1qfquXdpZKFNhmoF9NGCOoknIEPypyxMlMoVrAAdwlz3wLF_nA8XEzIDhIbz0pEVV5kIK45GqDC1o0yV5zCP6WsZkr0U9mgrfIa_Xs62rI2Qr4krSvtKKFz2OAsGHcBk9lXvtaylxwpluWojO90buWgK30uL_DVXrj3cSzEJ2P9m1KPKyaEQ_V_jR1vOQs1hT3vAOFoYC1equLIBFXiI9wFTDOV0nBSNnop9EOfshjOe9GPQj3_u6fqiWUdllBVw63SgKJvKWI8AGJe2gVedlG3WiRLrQFJQglBRa7hGsljvNe4unJGoK6eqA1OiyWuOxHFYqHTi2Ha_aFPgiaG5RyS0k6BEdKpLO83gFPYQGsHnhcMS3_LUy_WBKwn44fFTYH_dFk-EPoZt1WfNef_LUpYU2KHNUi7qN0ykRlUE-N-rwQR_jpYfXIQpb4IRRSgvbEdoTyeLljdR-k354XFBt6_lg8Qm_ofety6NEzn6GeCVcJ7ib8WI0waplmdO4SE=w1412-h942-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/KJgJi0yEbP0tRNhUm7BHXcmB3Pf24XjdB0-_weZHbjGLPwohdKITqgDSfYS6D5S6miYs_uOj9PsHaA94HCVetc6LD8NBao7cR0Jpui7DBXotSKb04O0InEX9RugvMF1tA_IDhpAZ7qdgQpm7PDb7pzzNFqQpxGpGptjAUJnlkbXIP5MFYa15fOJ4vZ75lE9wCroJ7CuVF-7PvueQacPmkhVe_Zfe__m6OZ8B1xTM0vUFDhcoUY96ZNWNbWeBZOWndOcTFib4iMFVoGEdVgF4UEWEQ4YY4NItib88i1s91bJktRupQnQlFklrbuEIzP-H1qQXd4MsZRA4l_ugVegCpLfYyubtDkuHEXzQ0NejmX4OPJbfMOAZqgTN0tIWen-FeEehlowJLpxZNGeffHS-to9od6vZidkw7cbDIM1NZyo7bSchFgIMXaN8LW3FEJPATeo_6VMabnmi6-kejCABcvrwQz5flAeFRcxsifJXvJSnj47M-XgTU4Q1cemrbEmMYQ3J949nSwW_F9eT7Xg-npkgp9_tfZgkMbGq8c2gISe5rQsSC9TH6EBd__KpiS3whkQgj19V2wX71MOZPPBrm4ZGWdOTUC3gw9XUeRs6Eg=w1410-h942-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/L-VpXa7E0ygJp3ej_V6R7q_BBSvSZGoVCvMVEjqPAuTPY8xYApBW3E_0hwPy2J1bf-luS3Po47I51bYTYV2T9q1Z8dfOO9XAdGFobVIWeY6sqaX9U3sO-zVtz3m482oEKjxacwXK8YbkR3GMbK5cz9j1H_6VVl40kJjkSqPSt7_uhe1nrPtAgRmw45orWJPsFGWevaaO-Ztj6sYGWO9bvac-WvawcoQoT6hKq3jK1BZ9psouD-IQqHZmw2BmZ4NclsRlT_TsUiBAPvNvfF0mnB3cjTnSUAqKKjDAQw9rKYXDlB5uVlJPbkFhvX7KL7ytKTgGtTm_1okmOC7HHdk9x39Q5PSak_z_6m-E1Qxv8LnOgJyxPOdcwUo5P8C5FQqO8nAl6uMqpbrJspQNGhURHRohhD-1-fakTiBN_UZMDj3x1ZpO95dSFXJPUuukSZV-nLvyE5pMgYXpds7i9QhlTSlWj6U9KBwxEexPVMjyNfmN5h8JhKcql6ZEX_StRaMpFOYBGyQ2RNXdCnT2xYIXCSukVYGulTkgdNPXdfQlssqfsuujY-qUTjoKVUfT6ZlhS3fKNgNM8OjRbEZpuldWkfqRpNfOiBW7O8p47I07-Q=w1412-h942-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;hhttps://lh3.googleusercontent.com/F8AZiIqLfMg0gjDt7rqX1pwtNxRegj0dVARoP1eVagrJNAeFwMDcpQgKyrBWBt0FeYA5-MHX-HgjsI0t1hivARnZj5GYCzhsPbv_SOwRjyrYFouMMCP-sWpJtXGayCIs0BQ8s0x-6FftWUp0OQWguuXq__KdY6dVTosDRmllz6KsCNZxP6HjO2LorbCPLpbLGdj3lgb0IAgWPppfZ1ZdQWzT8EYlWUYy_xbOlEN0HSz-pxlEpAszEfEkORloPyOr7V2pompmH3Q686EJSOQFolwYcczQmNGVND-CJ5SR6XPQdKHwgEIKGvZLWyxkd41ZpZT3uXwlcRsMwTdlxwjkUxVBdZUTZf2jZKH4i32TYX1rZvzjLkLXpaRy98kiFdRJMaBDHuhmbp_Ad92WD-k46znT4Uz-FuqO5CP7dDOU0SNLE9X_2JtZP33mIu-IpwrYWiLjSoArkNtZAhg8BaNjUwTN8E7x_5jR9h3ylbm_sohf5Vf63--3nT2sh6PutUSNESb7s-8ZAOwuSvEwYpt6bSqIgNBhcvS7B26t7y4VnsMeuby-ftrvNQ9SuvfrBbFH-PnjoFoJuLTUszCDQUa6_Q7s_xoh4dhBClm0Fl5iSw=w1412-h942-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/OmB83f8s9lmrvT9rtp2RZREBuxLNnr4jHqTvT7PiE2KA3KPN-CumBPXvdvrMDqMcyGdOWXrH5JGhj9YMYxPLTds_lkKvyBfNWovLmr9qSVGSfydkxoeh2z2VgIQSGmLUeZyY_eaVdJzyain1qASnrK1X4QYlA8fIQe2wyAd4lXZsF67Jt1IF_vFJLGiQdk_Lze7lACTDCK4Rc_KrY9ZenxkVtk0DCWIt7Ow94v6ZeV1jAqqgCXaK8Z3aUvB7DILXnyCU3qi9ivvr2l6O_CTZzQBlgM95fQtXMl-AGZ-wbRQFoAKMH1FhosLg_hx0MyTtlLh2xg06uCzW5ts32b98avcz54NFlb6-L-_eUR3mZTEaMtVfRrm-OaXBNBdA3VFoiuMz91VU9O-VzrMOksMKlvXnGyGI3B9oGKvXXkZvFKBi_x3uPMuXhQ2n2m5uB5dwln4d_rNkvPgundV23KnAd2ZhXoHHXPTEmYgM8px8rZ0l-WGpwMGy3SUfWgL3t4C0DtByokhWYE0PDSf1RxB6vk65kp5FIQXuy5bl3Yst09Yf8C8g2g8fnavyt6ZcYD8w27XwX_BMoxz3-ajrSRPrZnLjHaevR5Gm0rL54c3WGQ=w1074-h1606-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/8C7t2UtVdZ9rCMY7LI4rM7uR30ZPsyh_TGukvFrzHzoZrIN47jWib2tKM4-O3VTXdTU6nyiOW81FVx1vS2uhw-F1ZMRyX6uznpelN0wqmljPF-tlqc89U1VfWoBkvjbzSyheUf1hoCTyACZ4ug9X8Curya27lm2z8_JP5BSXNFbks9AUxKTT39EJo3ZsmDTbGOFi5j6CZBMAuhIozghwOjpVWOCJJosErzbZuzSlyMMNLn61RnhYITfJVlyswJUgs9geec-1-640mSBMIbnhtmnBvbv_j_DRA9Mewj2mM3KG3znrb-mRSr1cZZF4gRrX1w-ZYYNXQMSZ31JHWdeeFvUjjtcRY1s14ZOveBGXeJYeaPhR6CJrOx1AaPOnu2YLQLMIKYHOIArT7-8ihJ19cyE9TOb1tdqFj8-_2Bo2OGlqrORfOY4Eo9D_yVUwbazO9OVWK6a1fTWVgk8KdonrnDgeeCP6QLWGJHlI2WuQhwT40-bSygCaNSlDi4ASt_-Z3_4UaH48GuFgpk4gmgY3q73aoMVLVRyVfckmp4dc91UeYxiGO0gYMbA05d9DYmZBmzR7prSn18jINvH8FRvW8ItD6SsOnBAT4avLndXCLw=w1074-h1606-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/uCYHDmMXOwUqZmPfJDtRHFCr1AvSRvxxQZo9itFpFEWUxXj4ubim24SKBQ9Y3rzquQjMi85893EywWhAa9h1BimoQ90XI50Uy1wcYuVLwbpdjIlDKWrIVvK_r4m8e32qw1PPGfR1vqYcfnMiYuEJ6mE_8ulbSrfzoXD3FYaGEishkQDcg76gRQYfpN5_80nPxuqmrp7OrS2t8AN3U5PjbtEZgzqA6EbU7tiqC8hZDF3N7m8l3Ys2TKYvSe6eO2VOPpOmdjXRRPwk0zKGjEv7wlws9MrQNKIiYmDg7LWnLMWBbL_OR3jN1_KZ90FUr_ueq-_hBb8wdKaSm_dbGn5rw3JA-wR56YBVbm_pO5SXUz0m1AQR6GvIODis0RwI2dsbwpG_qoStkcylj3kkjCrGzpg5LZ9qOG2ZszIl2oFkonRwNE8KuYLCtRI2QalUdH9pd6OBOES7TioIhJ87HWz5ayPXtwGqN3v5ifcecRqz-7Ox0LAIzolBiNwV_3-oSk4LRNwc38Ypzb2d_DDd4Q_kOxi7qhEDxJZYgfDZdIkwijKcCbU1SlK60cvw0eppX0_GPNGYv4t6Mlgi132TDuww7qMVHipblWX4utZfHS9hL_-NGxTD7abanz4FkmZ8efJU9mq7Wd2N0VZjgZM43O1YvSGF14Xp6OHREKs=w2410-h1606-no&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 16 Sep 2017 09:30:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-09/club-spectacular</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-09/club-spectacular</guid>
-        
-        <category>ntu</category>
-        
-        
-        <category>photos</category>
-        
-      </item>
-    
-      <item>
-        <title>taiwanese ikea! automated soft-serve!!</title>
-        <description>
-</description>
-        <pubDate>Fri, 15 Sep 2017 09:30:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-09/ikea-ice-cream</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-09/ikea-ice-cream</guid>
-        
-        <category>food</category>
-        
-        
-        <category>photos</category>
-        
-      </item>
-    
-      <item>
-        <title>the weakest typhoon there ever was</title>
-        <description>
-</description>
-        <pubDate>Thu, 14 Sep 2017 09:30:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-09/typhoon</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-09/typhoon</guid>
-        
-        
-        <category>photos</category>
-        
-      </item>
-    
-      <item>
-        <title>this is not aesthetic (but it was good)</title>
-        <description>&lt;p&gt;We finally found some vegetables. #five+aday #thereaintnootherway&lt;/p&gt;
-</description>
-        <pubDate>Wed, 13 Sep 2017 05:46:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-09/this-is-not-aesthetic</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-09/this-is-not-aesthetic</guid>
         
         <category>food</category>
         

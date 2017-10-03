@@ -1,0 +1,12 @@
+---
+layout: post
+title: "guqin lesson number 1"
+excerpt: ""
+date:  2017-09-27 21:00:00
+tags: [extracurriculars]
+categories: [photos]
+comments: true
+image:
+  feature: "https://lh3.googleusercontent.com/jmb6C61XINUk55oAhfFc8n-N8P_UoukUGYbtcqncQIC68zBrpZEhwdMZBe7lAeTcT1S69XrGDx3tgjNp56kRks6--NHiioxBuBJih4sOY7bld3IrdpKMABRRQwDGrFqXtefrOBxbGikshkYVJP-jdNxFi7Wbgm2_QCvOrSIwtAN63qSFAicAxgwpEuRXHl3n6FiQ1Ro6BoLIJ3jnuhyIVl8j8A4-NHpk6tk27NAl0PEWxrPPrHXcWkjq0Jo3MUnkirhz5b2IUcRskzrdD5Gyk0lUVE4Bvr92Ki75qHSPuqLSkYEKI829SptHnVTP4qzGf2Jcz0U-y10SaO7ph6PVNiU0TRFNTIBLqUeptYpcCbKywucAbaj6hkII01Dyjrm2DtZzxDubnzqT7-y1JidX-5_v-ZP26XAhVtyGes9faaQFqdbJISz1hxfncf3rZBNdwPT9ia1cExpSrvx85h4_qC01GXI29ESLCqoJk-1_0OcYgIz6_-plOkC5cISs4MRuLa8nOjX8J7V6ouTcNPul35mtW6PWg6zvAcvjJrWkq4S-Hrfrbk6hYIaVtpm_4tvaazSuIwsZuy-ULT5mauVWfqvfoNaSuhDkNXsKWCsD2uQX-XmYrHAMDj7gYpjgpV7uM_48njYgsLMQuKbaJWh2doKSpvjt3oKQB1w=w428-h642-no"
+more: false
+---

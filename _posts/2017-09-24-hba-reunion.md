@@ -1,0 +1,12 @@
+---
+layout: post
+title: "beijing -> taipei reunion"
+excerpt: ""
+date:  2017-09-24 21:00:00
+tags: []
+categories: [photos]
+comments: true
+image:
+  feature: "https://lh3.googleusercontent.com/3qD35mohn7P7U7sfFjqkdvojTxaoFYOiuuVy8IfzuqteBlH9JHPHC_9Qgjd4vbaMWLlcYcSXO2G9DkF6tPefmn-I3CnSht1-CKenyEkIdBHL2DuIKI6cweEEROO1J5zHu67nxAe_eWTUHxTnJGkzTC0cbZZaN11TNcvWy4YSvfUHfiHN9V3u8cOC9_3MZpzkX2dpZ5frZa2LB4QO6F6fTppeA2pq51gNj4TRRhebNDsyoushTP1a39kAiYEYPwMzx70FOg1RhmSrNmG7cM8Q7T0s40YFsn-5Exs7goyJotx28F8F65JzitpAe7Q0fhnmtEezvNJQPcJUJS1VB7awIEGJQGniUETTHooIRai-8srOcCuBeqUDrxWjS8hvKlwZHbOt8xWM5AhxhABQO0owO3OgF3jMyC1BLoyhaG4SkNXjqQ71Sa7hlP6NLeZ4bXROsUjxp_A4GT6CmZj7eSCAC0VB0Py76i2Uac3WMz2_t_jY1CZa8LQpJCVNYN34nw-mIdYtCcO3XiEKkZsYXcHaE2heELw-36GbQQRyfMyVZ4CViUUkdZBKOu9xdSKKQTcgZIein0sH6IdoD7oVJAYjTd8ZrO62LlToK8E3Zn4p3jhnlx8PA_ZD-DT7V7isrK3h3EB39SJlIFYmmEQMb7Dsy2eDmB1wYik08zI=w963-h642-no"
+more: false
+---

@@ -1,0 +1,12 @@
+---
+layout: post
+title: "a monday night dinner party"
+excerpt: ""
+date:  2017-10-02 18:46:00
+tags: [food]
+categories: [photos]
+comments: true
+image:
+  feature: "https://lh3.googleusercontent.com/ThOtXpH5o7qXzC1Pz7ZzkJZFCCiefMw6WMtXDUQiC4Pq339w7Lm5GkcecvoWx1BMhuXWDyje3klDrCt4aj73VVNIl2YEcJJxzHEzgb-3gMg40WsB9VJpKXM_OK1f-H3kGlgywodQvYa3uIszRgatfePjn2yW5RcSyA0W0dR_kwhXubHyIs2UC9X0Jy5jr9z8QvkN6modaYO-dro4v-tqLzqhy8P9vMt2hceEo7OUXlxv9C53q6cU0PfnPcwRqDXGBAd5YSFgSQPZD_a2GrOcLCJm9SxpBtI_ZMzvY6kImm_vqiP0BKpKf5hYgCtaKAU0Q3ZZkOdcguf-BBHKhuU5LnFkNKtZt1mVejsz7q8_gX67wMjLCvKEAPHzQ-0swbEDbrEDKnROv-PVnLr3OOl7aALpQdDt9Mzy5qEZP8Fym73lgNZMEdPuqvJhj_Wn7IBjkYtRdf5EDKz6rLlC_mEb861qIyp1qIdZOfy34zexE63b9Jecf_faGlJ3bXeu5ioKCAKen7jG7v8Le3J2OwnVY9cDbltXOvn6G-_eNyZSMDib3w4nGhnBDRixbqlX9g5jfzqukK4k29NtMx_6lvWGXBoQmqLtZWKMKZKkB5_C-g=w1408-h940-no"
+more: false
+---
