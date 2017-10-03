@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "day trip to hsinchu"
+title: "day trip to the one"
 excerpt: ""
 date:  2017-09-23 18:32:00
 tags: [trip]
