@@ -2,8 +2,8 @@
 layout: post
 title: "day trip to hsinchu"
 excerpt: ""
-date:  2017-09-24 18:32:00
-tags: [food]
+date:  2017-09-23 18:32:00
+tags: [trip]
 categories: [photos]
 comments: true
 image:
