@@ -5,8 +5,8 @@
     <description>my travel log</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Oct 2017 09:14:04 +0000</pubDate>
-    <lastBuildDate>Sun, 22 Oct 2017 09:14:04 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Oct 2017 09:44:02 +0000</pubDate>
+    <lastBuildDate>Sun, 22 Oct 2017 09:44:02 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -94,6 +94,49 @@
       </item>
     
       <item>
+        <title>i'm not sure what's going on here either</title>
+        <description>
+</description>
+        <pubDate>Wed, 18 Oct 2017 21:32:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2017-10/watching-blue-belts</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-10/watching-blue-belts</guid>
+        
+        <category>extracurriculars</category>
+        
+        
+        <category>photos</category>
+        
+      </item>
+    
+      <item>
+        <title>post-church studying in a hip lil' spot</title>
+        <description>
+</description>
+        <pubDate>Sun, 15 Oct 2017 13:32:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2017-10/post-church-studying</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-10/post-church-studying</guid>
+        
+        
+        <category>photos</category>
+        
+      </item>
+    
+      <item>
+        <title>when you and your roomie are meant to tbe</title>
+        <description>
+</description>
+        <pubDate>Tue, 10 Oct 2017 09:32:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2017-10/matching-roomies</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-10/matching-roomies</guid>
+        
+        <category>TPP life</category>
+        
+        
+        <category>photos</category>
+        
+      </item>
+    
+      <item>
         <title>a monday night dinner party</title>
         <description>
 </description>
@@ -103,6 +146,8 @@
         
         <category>food</category>
         
+        <category>TPP life</category>
+        
         
         <category>photos</category>
         
@@ -110,7 +155,9 @@
     
       <item>
         <title>a dumpling birthday celebration</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/zCTykKDNFt8FvgoZCyVGTClwbSZbGUoHTG6CVbhj97B2tHOPu6-sttL_0Gjb94msKHpQXIR4QiCNHQt-bkXLlrPcdp5OkaIrE8p8XpM8Ml6P_nYCyxPBkeCsCs9_68Eg4Jvnih57GFuCSvePktKlr3B-1IYZ4h4orNuIIbe-aawThqQQnJvglUG89zyfwrz4z1nYFMyUYUWvAXJHT49FjrmKmSVB0I-dzCE65JDlQ3XyQgPNiWnCpNK2vjJqWauhwS_149HxopgXSn1M3xVuRKAKxwkHTNuhkqI_bdgdACNycB_u67cWTzytE83i560cMhXTyovEsx-39gCkwIic7OxYW2OuyL8O5RnXpCGh2l-QMvo5LA251GcqAdDs8v3LM0oMUgkkJN5vaD8H_wk4Yo-SRUrZKjBEDQi50KUBYgg8MP2zQC1cYBLzRqUhQxqIiAiROVB3qDSlbxQl1ugT6f7S4f8cxID0nT5oaDU0AZJIQh2q9xyJTGUqwUrWwH7AMdNX0g4loVIXEQzMonwY77jaE0N_1yaTWDj2mKxVOU2OUXFSivlQi9MifyOW2RA00YeUETAcaxY_YoVC6s-sy6GftedVjhhScUBgaGRPPIOpC9HfT3Zsf87JtUdnFW2idW5EDftiMDdfnDFhyBBm9tcyV-7xIVEhidg=w1410-h942-no&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/WSG8GW5joZkXjeRqpmouBePT4x5ynmOiaN_d4EPlJask-2N2a28wxoA6lmWBWG94f1Typbzi1DBUngVAgaD8on7YuOMDPkgwnuZSqxycZ9qtFzbitnwH83m_IQKX4AORwnb--0s1MvUFJWqTooTY6JkNCbI8AuPA_m3YLKGLKjhqMvH_IKhiKIsIDSrseazX43Bzz67rsKFpd68yeQcsv8g-o7td6RXK9ffIGptRl1NaUd_X4Ect4ua6bodTexHvwKawu9CSInlK8PIDL3e12Gbl46J6F7LMrhmTqkTqSr__6L-pwkEpo1Q8d7TA-rABC4puO8aF0kF4DZZ-Gl7Cyfow1tynjX6mIlgg6TnxWAf7M34kcXWQ0VU0NF9Pw-NCZ5i4Z-nyAb-jwEQNbbl-ofSex-yha-GQHnRyDagNMCmkjLHB8lBZhiDNwTao5oIcLbW-oZ2_o-av45il3JNRulUiBoqrt-2E1dfaMd4LS1NOGZ-T8rsGZiBInYAWgDUydCmFSYkc047h05T3DMLtZQ1M8IBUP7MvefbIGMNDnZSCTvk3nLX0_be2Z_iDjcaiF6jzPN9vREvsm8CiZYle6eh52hJhzMZA-QBSEDVfMZR17Q0UzgLA2Ydh7r-wGN-a0d4nQt5znWcOaET85pEXVyQO1vTe0B4z-vE=w2274-h1518-no&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/zCTykKDNFt8FvgoZCyVGTClwbSZbGUoHTG6CVbhj97B2tHOPu6-sttL_0Gjb94msKHpQXIR4QiCNHQt-bkXLlrPcdp5OkaIrE8p8XpM8Ml6P_nYCyxPBkeCsCs9_68Eg4Jvnih57GFuCSvePktKlr3B-1IYZ4h4orNuIIbe-aawThqQQnJvglUG89zyfwrz4z1nYFMyUYUWvAXJHT49FjrmKmSVB0I-dzCE65JDlQ3XyQgPNiWnCpNK2vjJqWauhwS_149HxopgXSn1M3xVuRKAKxwkHTNuhkqI_bdgdACNycB_u67cWTzytE83i560cMhXTyovEsx-39gCkwIic7OxYW2OuyL8O5RnXpCGh2l-QMvo5LA251GcqAdDs8v3LM0oMUgkkJN5vaD8H_wk4Yo-SRUrZKjBEDQi50KUBYgg8MP2zQC1cYBLzRqUhQxqIiAiROVB3qDSlbxQl1ugT6f7S4f8cxID0nT5oaDU0AZJIQh2q9xyJTGUqwUrWwH7AMdNX0g4loVIXEQzMonwY77jaE0N_1yaTWDj2mKxVOU2OUXFSivlQi9MifyOW2RA00YeUETAcaxY_YoVC6s-sy6GftedVjhhScUBgaGRPPIOpC9HfT3Zsf87JtUdnFW2idW5EDftiMDdfnDFhyBBm9tcyV-7xIVEhidg=w1410-h942-no&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/ISFGc-gXFL4wFcfgxcgucanON5_4v7LIaCk7g-605-AFGeQNau_GoQYlEBizlP159VL2apnPXEP0qS3zLjwVSfhvGb_2XvTaN-qO9VMYwtAG1levAxzRYCnWpM91w6ni4u1VdxdOZBUJTVHVzW1MEMAyFYj8jAzei3UY_RvaLj07NvxVphEqxbdVtMBavieqCAs4YYjPy_Ds7N9KYFbJ0kGEU7CHytjnJI4akM-ThPy7qSnHhTUO51PaoJYUUuAt_yJrzWgPmD17V7PiLgrUxB0nAAspGnmo1ozKGZdViC6XH6fS4HfWcD8QDr2ezO_YSiBlSXYwOFPhEcoO6wDrs_kF8bOtuaBTlY-LAte3M9HLl4cmWZX0p2zLuPenet7dtrEcHXr9x3dZ798kZT8OrZAafZF8o_J-_qAn5KcGBm_2SzpeqxqSnne7X-S4GM1WCMNe_HZFgZLyq3njpMS_BQCdhvxrdoguzdIBrzZ1gqd8OYzIZqPpsRt03WvE3NEXtBgbiZpCiA0aSZ2xj-SmdyziPPOMaD4yuJAwgVdX5qDdRq906W0G5q2KBIjVIPFOBiHLKJ0Eoo8jW7v239tctzw3Uq0-abjid8AfRe7lspOdSDe5E8wuxzcVgK6mCcsfFhupfyH-yhjQLRvfOznD8NaSwuUsvV8grYY=w1410-h942-no&quot; /&gt;&lt;/p&gt;
 
@@ -160,88 +207,6 @@
         <guid isPermaLink="true">http://localhost:4000/articles/2017-09/guqin-lesson-1</guid>
         
         <category>extracurriculars</category>
-        
-        
-        <category>photos</category>
-        
-      </item>
-    
-      <item>
-        <title>beijing -&gt; taipei reunion</title>
-        <description>
-</description>
-        <pubDate>Sun, 24 Sep 2017 21:00:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-09/hba-reunion</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-09/hba-reunion</guid>
-        
-        
-        <category>photos</category>
-        
-      </item>
-    
-      <item>
-        <title>the polo cafe of hsinchu</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/Npupr49Ty73zSMHG-_TLZofTqpy0qe14bY8u1kfaORrBZFCFizQC9BREtaLPjmldXlybd9muI03iIkeIcB0R4IIbCbP7S96RsWoLnoV3gtiUxWblZRdgnLUGTwSTN2k6mKqTIfDLXM0nIAEkujGhQQ9ODN_JE_3NWHjLTNir4jJHkO0DjC1RY9dp3Zv5oFnWZqTHwgbDyAz1nv4lltHpFNnDcdM-cas6NsX0wMQVg4lcD85ayLWd4kKwBjIOZOibyuJ8uMAKSE4qdo2PcHrkcWAGIFaguOFp5QtvxJK0swi-7OxutIF87manjUcxotzPTHRSElI0KpnTPz6abYCpo_c1P3ZH_CuHw_gSQUfJadW5IPPj-sXYzuXETbOw7V53VEG3huRnp1ellMbQ-z_5lk0TNB6-nZp97o_zZzLrH_4PiDIz_WY8hxO6CMZkT-QELz9sKXbr_ooa6fM9ck320Umh78OzVHqF7V0JTd5eeYklQnLQayw9PI9EZyOZkC6ZokugIYEE_fVK1joibAi-EHQ-avugHXzh-nAL5Vy6im0OYmEFJljtXs3pMHyVsHIvUwfmhhJ6YSGaSlg_83ocoUqIpCQdj5dS8Kp-FdmHvsCIpQZCW2QP_yMNzzrxvCNAiZsskKYc3WGK-e6ixOtKLrI949urp-faUdU=w1410-h942-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/BE57Efd0gEb9zMXFU8qHJOsKtGRLw5zAimrs4k-uYeei_XRiDfhJAt2dq9T6pis1ekjfuQi5jBP4hnz28aD5tSetxjmZNO3dbYS5ROhWVrXm10ch2W64sFiNBSQK9hx3B4yzb08h897RD_NbCl0rCiUcJrtHXFq4IhFPymxEioX-dlRXjWAjjawuZ6D2lvwD0wtejtWkODex4OIzVjtksFM_90io4FoNotSzQZokcjgLAlr4K5AFYTvO9SRJBok693Lmi8sINFAdzjIWwzyzAbGX2Ijf37f7r6gwMgPzVh1YbsVMOxb_Q4nTyNvgjq6AAZxPfLCBV_fGr7qzAdbatB85yRPyW15V7yL3MSquLG-vSIj_ArfpeMhg8TuxLZpjlC8IVdMAl_1Jfg4of2zwTbE_qnv-fhid1V8cH3sTx8uNUyyDtAS9R6L9Il4qfpgnCANQPHdeJ5kEHf-J7zdRsYsx6Mg4GQs-Z6wfTzqIvjhejx1NIK8s0rax3SWqDH5STHVWr8L7F6RGuxCCGeWtZB8oInjA2PZ2cQsAcd21zqEBSfPoaKkyDYffkr4vaC1zIYCMxgnJ19wjB7RkmCXbKKdL4THrRXoMQJi7fzfK8zmAdv91pCw39Ni15-aua6yI8BkOUsfkYcBjLS6YQs2xKhgkNiaust7aCC8=w1410-h942-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/Jmlpqm6ohNtXmJtwFNi8LT32v7SnNCJJCsseKvGlRLpQlTLc4fbOc7IN8nbI2pbkCPmlyCByFQe_VYV8cHqnWSa9AIZ0S1ZLA8ePhbD8NWaOGbcfL7yD7DpW2Uo4BmSqJtFhcmclFE0LAFOWWXRjxZSwCmHGASPovBluJ7K7pf4q3vLPHJC-XvmM51gecxneYr_WnkurbhztkKdELOE0euIy6VgFpH_H5OCx0rFhHml_CfaZZeeN0PdA8-Sugx7iNW6yICVKle_hT-78nTcV-Td9SJeUkc4YqYIvxOKVT4NwajZxkC7L3OXopF_tO2U8UXFs3vMBjLtTuyb55yGwS8yWTYv7jnE0bZ9PfSsMC0gjOkEIhgLg97i2lzK4hgYNoswn3I3iQJDj6L0vRW6CPSgT0FPAtUMvhoQrbaoZb_eiCqoqZx636J84jcx3NPgXIBzAOPgcnXbz6UH7wxYaj1J4SL7G7b8UwNBFytdGj_O9jVgAaJJZ7i6oARcCFkInAvLxZ1iedNJnSJU-IIluXG_p6A16M2LV0FjnSnB9NlgYkaxvODskfQSwyBy6Aym-M_Dq43YtQYUgl7Ujeb9tuFIZszbqq8i5HXjFrpJbqn87KDMypVytCrOq_N95Ezunda4SCqevjqu2l5nmGDvKIyNzsC0uAm5Rlbs=w1410-h942-no&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/1-H8OTg8OUPCliRLy5Ym1lYAkp-GF37IADOCUykzcQ7w8bP1svixor1mXmjMxHV9vDVR26eNsywpY2bsJRtOnh9eQZ2QTG6VOi3npiP9gcISzPSBa75GT0HfYIpYabrmaKQakKhHWzt4_c8Qmgk_S-w9PIzx8oA1fL9D5j3LH9LeDb_I-lfGiDKXif2wsxX3N-STuZoAeEtBwOrFnQoUfWnRr559FsTwJvLEUkq80F4xh6qOQJcwZHxo2Jwtoq3AS9XPUwq1AxkdhcchGRxTiiK962KOimANz2Z7wYqbwx-tRv4muDNHcYiFA4F2X6ukgWaQIip2i8Nx3URrEi57FWV5_J5hXfZgCqoe5oCbx6LxrRvRcXQWBpBtwVJYn9v523Yi30FZ3xo8vHfOJ_iStp6lH_-S2u-9ySTUfEDiGE1lmL45iCSmp9zCx90HRLgxI_n3UdgPYWV4vEUh-4XuRt83LGh-Ic_UQeEoBW7UG_7S0NusgIL_fWNhtHc6Y0Mg2BRBu85wQRy-HTsT4FHyzd4ryOrF6zezHhwWHzZ5ZI-lsHLoFn9iYy-ih8PkqpatG9qSxpBs_IG8-GPIzLcNyNFs-N_SAkY3CBYsVwsom5DgQQQ7fzuegJw94HIJM-ZX479Ay5dOWY3PtauBGe_WVRpiux02IQYfURU=w1410-h942-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/RM_0SDCPkZvAwCLbtdmcyYuHNtInqRwsQBcCszn20by2a49Xl9M1eNnxHgWdgu9aSDSOSIYATw7M72lX7fVQNhZRnee-SsenFbMYiPfFzkDn-JF1MfcdnUTNLe2Va5XpXI60GrQr8tIBP0Dno9OclX3IcOFRBjizZbu_kqZQ7gxrRSjvVsn4JUgZ8qDoxFM9ldA3S1eqTxYgSNC-g2Hm1_6n0NM8yHSr-bIE648kPqf_LfZxv6eLQlymmS88PZ0US_HtKf7AKk_IM9f8y8BGAsLzoevEQFYwj67Kz-tHk9RGCRCDTi8A-iqAyrNUXZlnF7Y4tSO28RGO9ys9z6dcDbTGc4MuWQ-klizPPEIFuOTCUIeLel70NElGhnUltSNrabGOBpOI46UXDv92SckZbpPXXqK9_vVUvKJawZ6pr6oetI1y_X8Yd1ocTQ0Uq4QXcaUg5yCVcWwas0CQsDb_YnqZH5vJ5E81f03tr8VaduujYHqxCnrUH2SQNqF-6CN-cUT5XgzQbXQXxueuMb849sp18T9z7bjkspWHWnCAz91lus7D3OgimO3l4wgDztR88gW1iUoJmOsTzOIGUM0Ha3h2z0lbdP8dLv45beyEgl-J1pyrJCrHTPB3O62mqnrcHbwaLBbpfsRlNuWSfWBJf2MLP97wqSR37ys=w1014-h1520-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/6eAj0Pc8YoAQjqWbrXVXS4i6tiOtRiwJBvGrJvZRoOsk6yWPlkEfDcGIwNe5JM6WL0-zn_fBUm3Uj9YBwi1jzoOcznX0FX-zjrzheVWGcBgIWKCbETqSpWyVr-gYUTx2JLcUZozTgQUrZl65YshSBZOFDBIqiKL9lPfkqiEwjXK3M38hFdRf3a_QIH5zAsGh0ysRyr_5tE40rG2cBjG8zNLrBZwgSz1dpbhRJlCszXXDqltF0vU_oh8JS7v-seO4mvkteRd92Pz08JCXF7jvdYi-QlDGo94qgFmgrLLOYbgP159nvhe8CproZQNcCveYFc4pMDLl1wyCkpeHV-bVZdZItlJ7iYxPCYQRz6MoM6DqUAzbX5SLQE-p3ngohGPBogp9wGdTdU_s_ZxdzSwlAQ2Ef14Lr_uxJReIZK9llbgEzrCWgba7xsw5soEhKfk6GB7uiwzkrxthndzOsUUR4kg82kSAn2qwWL3Lrw13Ce7P5lwqRhVo3HGPMxf_aA6bSpSarTrthqvnofMT9o35N-gwxm4N6L7XrNAdQFzLL6VNKksfCq4aMFmT72d_epI-_W9r3zf1Za0OEmuUZmXU0s9KFxKQkfJnXQzpCcOiLtmfaaEef_QmjQpCcrKwPas8AN0erbodPk4-WNuUiwW2G-fjp0QQzvI944o=w1014-h1520-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/oyPx46OWgj_DYCDGs9EvvKbn_yLBUXeWc9VjJzylyWBYxi8dHUzP790lOGMPldgQQ-5lGZWsptVFY5uFIXh9U7YtkBZhFuE_m-3Z1GBQ_wEGhpLP5JOFaXAxH6CH-4p0bTNw7kab8rdOsDADc5jJjP4SUqWg4l3jCYb62VoABlY2Q6CRB8snxW9rptzE0l374ZL6FmVdkgikVnWq0r1YSKdxFFiONOUiuUZCLPQYlIhpB460aHfpiZKKMHFyo_OXfkzETXLZvroMRHEs02bT_k0sPNoKdIXXzq1mTWW2GEHQDyExOSQwMhKJQc4VHpXO4fxA3sGqTX4SqNIAHKHdOUVSed0jyzcaTH2HgEHxjWLtXVzd2juxA8DoHb_yI9XZdq2dfChy4_KpKQ5uBa0U-WAFDg69fzSQNFKkeZDDhgxsa89W4wCUWmAV5wJ-oNSEYy50n7-wQhObU3ClzHZ-3twCSxG1GvMupmgwNALue92yQUMyfAhkSdRv7_Y6lFHp1I4qGkoaxqWDooLu46hWI1a616ny8aQqlN4DWsDnGUm1noovKWPGey2ZEyMi-0TvOZ40rJU9B8BQHtSAlrUVJiNMADgw9DG4eJucdngJyexAhGwGeDek546VlyQojJzscJz-GJBUHrhodOiIIc4f5dya4OM0eU0pV7c=w1410-h942-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And back to Taipei.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 23 Sep 2017 19:32:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-09/polo-cafe</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-09/polo-cafe</guid>
-        
-        <category>trip</category>
-        
-        
-        <category>photos</category>
-        
-      </item>
-    
-      <item>
-        <title>day trip to the one</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/yLhD5ETlXYaExL5mArUsnHZ7kvpQeY4RFOQI7mm78b_vuUhkyTdJ9NXrO-7vPuD2O4WRkhvywkyunOSMIPxtlkzVnLrMMy46dDyl-b9RrUMM9DM0NkpA57UEOxHlt9Yv_82qLLTb9eQCuG6gTJoQo7l3qd6lWL0Y0QNXeaaouRahuvnefn5bzU6R8btc_G59rt9AS-14bKf_pdjp_jZPx2EWf6ctw7QHVQI_xhGBszb0ceMKImrFY4U33sJTYQ5xgvlO_Z2hNVzxjDJ-LfSqGFIdLDs47cv5Ys1t1aDHG8oCGQGWs06xJaTkVLMlu7U63cLjDj8yRtwXiyXy1hRwJ0DRmT_p30Bg-tZjQUeeCXjvDrfNIZBQsKDsLwc5VW5752V1PrVElWSXGXHVNfnRTn9YQDm2Bt6A1IYT0uP4pDZ7kjE80lkAuofNziWlKXkXYKfZHWTtQ8wNqBKE4yJRyWg4fJQfJE2e6bzs25uaNn6ENgooWfig-xfZ-LjMDp_zcaAKFLXjStwagVuYseSPV-D8mjHyr8NuAkg7Y7GSkf4N_m_cMh38lxvHRJeKl-hZdfN2VGiMCc0WNZKySGMC-rFWHDWyp03dC4GcK-j8qA=w1410-h942-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Off we go!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/R0TKincEj00W0zOlTOcywXGZM3NBl4rYLqYs5mcKvjUmERxqLi1s_3aCIzGuWQGo7k7BOHFhM5zDVeLDMgVu3lix34F9pWiqN0y9BVR-eXbORO5xOpSi70ciKIyQMYYNIgIv7SDCE7HbjtakG8fUG3sbxrDVazyEBNqL1rgzNeTiT46d5IWBl-7OOjd1QMS5yIEg_2bbDfjEokoNCNiAyfs_ULYKNkASdjZ5PrvOYV_wLJGZbFaVwcFnbYVEYEInKg4gC7WVg9yieBFXfm7SUVU7PIYTe0gbXTr3Y_IiZh-uIuLLg-zdknpsmyPMSH1C3F7Kkvob6FFNQasxovlaUq9KGjI2pZ1wN04AAHNoxQN8xE74Kxsif8W3nGcRXGa1AKXqGwbsJd1ZGeAT4RpQOPudWgm6ocL2tW9Wa22Zh0YyzIe2YeBHFMU7mT8sxA-n1sVxQNewupTzycqxR-L-V7h0wjE0veEAW4rGu-QazqM_hJbyAMbVqbFGbPJnlF5nn8YiRlknPcmVYW14EHm57yDvDg5BcyZ6SJYLF-O0fNR4JjwE54Lq6ioh_kCaL9Vh3zn7vwXXcvSpwrL2ftZY5WmNHaN7cV5-2dxT0Pr19Q=w1410-h942-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/4L_cNzFSOm2bn7XOaGcPjMvA44Lj_ZUhR3os-kbDE4ZYKkYeVgAUnEqtK1jce7k5qntftW_4XyCLF3uoLCf6FE4PB3ur_JocRqYTeh9nzjgf15nLXDDhxBHPdPMV30IfVD-f0C3461hMU7jRDOuHmy4q5oHzdcQZLeVq8CMh3hKNPOwD76pdW9Yg-79OzObSAaGrLRhIjFu-PI5Tzs-r-4L2upp8r6JcESobsz3OAhJoBIbHCz0txpkZ0QwDTvGKKW5QXF7HwzQ9rlC_Y-FJNEVRz-g_lYj0pfwD5jL54d02TDoxILGQno-vqKKH32bGoa85T-AH_lvpA3VneaKv3_9cSc9-DDH6K5mmUAnv7pjJKQyk2DiiltQGyO158YxTMF0XBkB2tW8W25W72C5Y4H_2mX4MDIijRcALoCA6jHaxo_BtTLWUkV_4TEtSpPVnjF2hdgguDututWyXPCYEzIMlCcxXyUF6rM-PJ1oNhCNG3Edu5CpCEcZ1pyoBmUssmHwmpRwDvftdqEEn4_1nxQtS8fUbYXELp_KTUC4_199WvEVrQr3vucSrmrMQ5Ji2qcZRZJW4TGhrMHzJkKD1V16asYqsYvi4QBziMdWXpw=w1410-h942-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/IUl-URtitMC-3LJ5KDCeQs4kcwxYmgNIowwqvmuDlJMBdrIESf-AX3AseohzLP4ACfYB-YYCvVbjo6DaAws55BDQ_O5wg2pkuPQytBU4HeijigB_x9eZicRAEA061tkZF2AjC_chaJkiiBpgNx79aFll_VUuTWYGZjPIXp15bAYuWAtKFwivdT7eYO0_LU9SQEChJOzTCVHfzajMAofDaOnTSrj4RH0hgJqQO5G8OVxyzVnYS9vLoFDPPbAWKqYUNa17OpRPZopLmbnT_cWQYOS828razZZ221sKCJSvOJyuoUP2bgFJuZ_EdFHlTccGu4Rx8NGhP87Q-bpwhb8M9AsUg1yLcjvwTT-pt0UR__CqoO4EsJ18j7No3Zhb-2VqTLFXC1eeEoFqP7zN7MhiIddZ0otQKtlUiXwziGWH8Dt3FQmKJ0uXjqK89z9pAeabnaM5GyKY2Q9cuE46r3AB46_FhlXd_irCW43luOCZjHsbC1sj0IwuvR6xJ3GWnO55JxnFblogn7ScbQnW0tNvrIIxYYFDdUaZUvDYw_ocrolHv3V68E0lxLQWrRlc8BlzAuKj9qp-mMz5F6QPm80xQF_40y6bMOEXuzD1swpaOw=w1410-h942-no&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/ghcIby5dvjbFKauv6sMnuN9iLHVzDeRMtqq3roxKzBiGDOJgTITkljUIEyFzmH0pjnHdhK9G87qbeyI6pAcyPJGrHYFpS-8l61dKBMdPvl_mBetXjF7qILs0eUVMKAOnAmpXlsXVSD3C_FObD2Wbda7GjPw9d9ZGIlUapguA4sBmiAoxv2QW55WEokU2TN9r_dijeT1O8kcLBPi4mtB9mKOPJgbd2sT-UOg0zqjTPLZNrZ9WqWOOMxFSuaGmi7SgzI_YUQDUllDRB1SQpHKqnhPZdRAI1rdriQtieQX3Db47E3awViaHjJL-2p3Zg8fss5rR0CH0HLf_p45b5YoEroO0I38KEtkRKUGHfB6kkbFvNmjUc9NihVK1dQm-JXrPvJzSyDuJOqYZDbRzO42YUCQC_FdNuq3TEJub0FY4kywQcesjXB2werQPwYYcWpsg7p4I_MYzNG-aiookbxkBkh8_7W1BC0SOlor6c6HYjDI021M4HS91kE19Qb8v5d9YZKm3kKWPdHXoIJOCjV7QGYkMJwFe9rtFs9WjoDLOWRHSCQ_7Sma7zjtplcqsnKaVAsBpHpZsC50jyiPLdYLxWWUXy5TWn4ZXeyHljX6yaA=w1410-h942-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/x7zNOydhquTGk7lZ2TE9xQMXyEQtkwTU3785zhh-n6Jr2x3_b29DfKdK08ma2YeAMfZTYzL5t_3GZA0cBwA3hkZWRRr7FO3qamfB_BOHaoRzVtOf64fNzgW4JrwpztHXt-eX1_TIGVjfh8RHY_eB3m3IVbvRJ_XV_QGV3VxiaPrQPw1aU4EBdmvHz1Wsp3G3G7QwY6kZ8y0Ee1XIaQ4BFiXgGcnpas_rZ1KTPnhDz7tNQGyI1dWS_4T26mHjM0SBE8X1jZ4c7M45pKeRIEn_k77mSt7Jthm1DbsOyK0E1QsphvD5EFZC64CCTRjEYA2IA1laEzM4gdmRbocGVHoczXzl9kGUc0KLCcyJR22-XOcFAkMHmwcqHCt_ZxMqJsZg4Aw8lJZzkaDUMHgt6h15OBStXmE_m4eoWHSmmLeM-Yo3oLsYeWIeofHOGYdGrvctWIpQJ6GtBEpLrV9WpfnR764ACg3FCLasTcXG9_x-2eXZDmce7qZ7WF0CaScVIO1W-qYfDhfUYD_-Rl-pL2bg_VmJWnozGaPnAg9kNugFK24k_qoXeBovYTgI7uccjH-pbDTqotFKTooWiew79E9XsLczeWxiFRIA4rNc7bD8ZA=w1014-h1520-no&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/4KXezOgjzcIoy6zyW-rF3NJs0daZu8_-xBIkK9ldpew33T9ni3EpVVIXHq7-xLVDBHc5lhxs3aiN57oapMXbrA96IQZ3cqdTJdOnNN0I4hgJiOllmOp6xWLLZFm6nIYSU35gpTiHKcgb8pbCIqUW8E2aHX-VDsZJLbXrYGetcA6Is_utlyJAd0OtAVRxgL9xwm5w2yAlLOJgoLekKmt3WkOI_RfSbhs0-33Wv2FxLJ9Xqfd9tBtkEq7W70C-EsYCvcrMvhW9W-f6rNVEqC-ysx2HNzI7HeRc69f2pUqOL5YUfjKngHirxffZ2Hqs4DVnplym81VtkagMp1HRm09yEdma3pDEIdy-tJG2p4wltpknmYgVNJMN2ZD1pmgsP1s7ktj7re_9Oc5KG-ulAitnT97iXc8R5QsRfznJ7DboVBVTpB3d7nn465cXR7_xahehJLCcPlmz8ACOqeqsKpXpv8Ecg4B2c-KcOFnPLie013-Pbda4Ul6JKVVGsQZPSbPT0z_qPPwYDdlssLgbi1Y4RqFc1A9hjxjKNrIWXV8wye3WGjTmTdlHMY88UxPiOajSWhcDbbZD26BbppgDJgeQVP0zQPflYppQr0UrnLaEVw=w1410-h942-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/ObDq0qAI0g-f0qurmqXOIicKRbl9c5xQbykCkAus77KJbLhZUpB4oElXHZ_elvCQCqqTg7DnuWlbxXYzpZaM4vMVhgrlJFsRJR0P2KCOxxMqRfjq4HYzOtUW_awHBCN0HCjRTncj_SQvFdb_OahwUVIQbXx9BRWMwp3GbuEE-mtUovN5wT21XGTwI54kmYSPTBKUPFpq1rpZj1kTuWJ0UdbTk8i0N3jS3geDZWYHqBAsLIDbJvvlMkhFHqbA33kjgZcFZFKtjRj7MyK7cQe7U2LF3yOz0dgA_Qn46FMdWD-LEQTjVCaBUay3-YYk597T8vg_s5uMjZmpj2u8alM5DZY3JEBPEIlAPfCyii-Br4hFG84JpSFm4zb1R5L89YPUr1dsITQYnmZuqnESDYS7GRa10JtMvO8qxbZxNGatKt2wwM1DkuduGJq7NDdPrCwY0rKbmpHHpFtUorYEn1dCB0V8NjORo0dzsAS221J6U0lzzPr34IPADpDI0xSK59hxlOM5raExRyujsCXVQAQBVPshjjXh1nucHKRxyI0D-RMUtmHvBI8RB1zA_UwuqWQHyD_m2Gz8lyzliYKtpI_xwwyfklRYBmTK5BkC4VC0hw=w1408-h940-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/ORnr1UaG9J4UCLpgOl03T5LLwTE0GIpQl5Vg86_NlehaczY9aznAgJDxGD1gACbtanDUd2tWT8OTk4aZWfZ2PiO-Wr3VSEtGj82vppf_IOeyLFuOeN6kVAu7N0pgtcC1RuwEykpNOzNMW2GrQDkw1YSY8kWLgtGb1v1fAUyvgxZP7GCkX8Wpis2LFv99xbieY9c_fViuwZ3jtq5JjGw8FuusDTIZ2Td5YXfI8bqM3_z0ZvWrkmzCmWR9jK_FGDOPysEtjnZiZ5MG3TCWztXXPW53C6ScbBY4gnNhrgQp4pEtMsXIhvWvZ7ucRY9rc6ihiFUq3zQioQvcClHxp5hWb55XnY1Sk3JExpa9eY-4X8KfWQvo2GFR-B_H3aFwpdYAzF6LjHQV5Rp6gpXVFgmA8r6tCP0hb4vHqKVmXUm8JBANHkT3CkN8kpUM_n6kUOphLBwiirdD48duwROUbMrY5qGQFzhUZoLnnBJslFbbzNWD1nbvuiZ836WNDEuTFexrRH4I2Zvf_E12e4ZhBVuuP1GaR7kebyK_gA8h2mZmKF_rPB85NRpS1MII5szZ7NExBeoUdShoZ6fDxA2areDrRKEDZrIrv4_ECyLkzdm9eg=w1410-h942-no&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 23 Sep 2017 18:32:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-09/hsinchu-oxford</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-09/hsinchu-oxford</guid>
-        
-        <category>trip</category>
         
         
         <category>photos</category>

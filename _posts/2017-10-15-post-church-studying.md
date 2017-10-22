@@ -1,0 +1,14 @@
+---
+layout: post
+title: "post-church studying in a hip lil' spot"
+excerpt: ""
+date:  2017-10-15 13:32:00
+tags: 
+categories: [photos]
+comments: true
+image:
+  feature: "https://lh3.googleusercontent.com/7GphbbhFfb60aMxEs8mXMRX09GORI3Y0SKxkfflTElBCaE51dKbiNu3L-gHYXa0iINFZRSeqfdjini_22qjszUdoICfZn5nMlzgN1F2MK9PQbkJQgF-DisGWtpY2U7-_h_Vs6PhwrmBf8rE3XWkNo1j2oNEK6ObzCp5MBX9geNJssECmPZ1AR_lg_f85DHBeTJUSEaYSw3e_tJOTFQIVRQCwjhQ-NYvOOMxbl83xTUt5ehgwKDcyVD1vDC0UX_WEbAf_RQI1t2H6ZvqHsgcMnS0axtDF23rzeYI5LMjZj6FTHDc2-gMTuFQZioW4xyjrk4BegEHu5gsB1sLlfuTV7FeTZZcdCA1hBrOpK8Bk5_Qzo0y-iERLmouPpXIaWyPTnlg9-_hscjr_uLHPpS3UcoNPzIpTFdKgLf0zK0sh8_9ho9I543ymSNYeRVD_WorQX7rG8aRrCUUMbRWfubfnavNdTFLgLx5UvnBl698q21ZBFqWcXjyH5KHiTT0LZv-pw7BhD7ywAF38fW3OOITEvAY9MHp4lNG2AxKe2Zw_oG9uSDrHj61R1XEX0bedVrUvubIbPam4R3pj0AcM0RZeZKWcvjB1Uo5mBgrrvNP4OTQ=w1408-h940-no"
+more: false
+---
+
+

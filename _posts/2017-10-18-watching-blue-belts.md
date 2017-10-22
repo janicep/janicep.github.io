@@ -1,0 +1,13 @@
+---
+layout: post
+title: "i'm not sure what's going on here either"
+excerpt: ""
+date:  2017-10-18 21:32:00
+tags: [extracurriculars]
+categories: [photos]
+comments: true
+image:
+  feature: "https://lh3.googleusercontent.com/lZ2HiJ_foq4wh3HnpJJHrHJI5ZTOMvoJhdWYitVZAsAEg0lJ3sJrh1PQVKPHipx7mOos5bMM_R-UTHrkfdW1QZgQUq7giomxmPAbxRUua_dVOrSVdJC1VYtlPqfD8g3kGPG5aCW1IgEwrXocrY96Ol1kX6BHJVepwO1nqJlY3SVYsbyM11wi7eEAAxYDwkFVEkL2Fsp5cWg2e73PSp_4KN1jtbS6xX8tpIyRDpDR1b0iyH8Mb5F_iCvtoywo1m4XFwbD37CCJK3WfYU1L3Dwq3G6YzkwV66Ic8NDd-cX2sfkwxcNPNZ4ZxcXcBiLumYmI3eYg71eAbZgSh0lX9NlXW_mlmhZzdVBOQGyQX1aNt3SA0qxRS8Zwd7gUbFNehFem4aYkxs1sz6a1TUlMtbm4-4OhIaPWrl9rDKkLkXSzWKXyQsKNxYJa3qsqckRq7kqaQ71UJYeztjD4OXn9IWRDOVg3G5WfGoZNogf3PdjXhU1AcBllmTKZKw8xCEuUgDibZPGWl61LYcYA83JGcGXOwcwDx3ptZWigRT_yVyP_I1AjPmeAS3M3qs9SMcBpLOyI4woj4FKnEM1fghHy45AhvJuhAg_YzhsutsXNXDRWhPRAATvVOA3iZsvi7WXKUlGKD00Zu3kFZL9ohwuIX2D3cjHws0FNIAxiC5S=w2048-h1365-no"
+more: false
+---
+

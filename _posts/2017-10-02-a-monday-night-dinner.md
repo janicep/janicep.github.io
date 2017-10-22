@@ -3,7 +3,7 @@ layout: post
 title: "a monday night dinner party"
 excerpt: ""
 date:  2017-10-02 18:46:00
-tags: [food]
+tags: [food, TPP life]
 categories: [photos]
 comments: true
 image:

@@ -1,0 +1,13 @@
+---
+layout: post
+title: "when you and your roomie are meant to tbe"
+excerpt: ""
+date:  2017-10-10 09:32:00
+tags: [TPP life]
+categories: [photos]
+comments: true
+image:
+  feature: "https://lh3.googleusercontent.com/Lmc0juOKz9QCEj4CSrrX1gmv6HXpDw9SahSGz6JliFAi7lK66hyoM0EOSzo3eICQmctwV9WEg5UMhrxJDEzslGOq5CyK9NfMfvve4nSJ3omy_Kks6HwWY-QvAxqxOKLU-FuDL9x8mee81sA-23z6dgmHE2ICojSlKqWEa9NptudX3FUZemW3Z8B7XL04IP8G98jNhvu4t7ZoqdL5Q1xeq_KGEShWIWKIyK8nGHMiYusxQxxYon4yMNgTXh64oK5gqaOODzsDSZqYmIlqKoI8fZ8OsCNlr4L03p-AIHiH_vqttDc0o3jTdsC_Vc8P16UUxaPeP2-pG9OSJDcvKob1Ca9_x27qwZaCpKfLvmvCcFm0FtpyTFkfqylvg842IXfI3iQzVDFcC30qp93p9EyO6qc36DjFRlzC-mnTZHdiIz-ZNSFEsOhJCupod4HFQcL_tDltnBRHz0mnxuQrw28kWJMXIn9UBp0ZQe7TJI3O9gHW5604TERuow29EEiAYQiLUkJTG3jN28M195-necRY3Um6g2DWrHsKLNVjTH8vll2_W8jkCnC9nkEqnW3vjVtgXBA7htXvVOWL9scmVsFnttSMrXLZGF9Yi51MryUaMocwHovBt_hMs7DFit9_DuJm1e4R-idphmwDuksHUlVc4oRD5cCWA8B4k1W-=w2278-h1518-no"
+more: false
+---
+
