@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "when you and your roomie are meant to tbe"
+title: "when you and your roomie are meant to be"
 excerpt: ""
 date:  2017-10-10 09:32:00
 tags: [TPP life]
