@@ -1,0 +1,12 @@
+---
+layout: post
+title: "i am banana"
+excerpt: ""
+date:  2017-11-10 09:32:00
+tags: [ntu]
+categories: [photos]
+comments: true
+image:
+  feature: "https://lh3.googleusercontent.com/bUi2SSN5xwnX1r0bdZNQW24C3FsiILvgIp9OLPp-28Ke4avE8YdeeageBujxWqQVvIUOavx6ynyGrSYM7NGQSK2wkGKF9cuWyb9Kszr6g2EuXoCEA7QPn2eLmL1S6C6X0ZrfEk91qoEeexvo2n-j-BD0oRfCVyLkrhQszd-cFtLi-Ja5MrcXYTArjMs6fDC35EAblfJoFbBOXnWUUKfncpRf7yXamAEafmwaBjzT9mvNCObuPcj25z0Q5ykHL3tYcuvLICZv1KrQBEXaEgr901ti6Z5wBv9JKO3vDTa9rKpZvk4hQzVT9aYK-mTossFiJ8Dncw9fbRU6Udos9rU5it4GYj5v73SuKBQeQ2fmb8uerMbdlhb8jlVbEtaeUwSw2f0FxOHfOry5g2eRJrTFSRzZqtn-FrK3zwemC43r-jEj2OKgBguwcd3S50M-XL60mgSpDYyN16EQry7ADBCLbFOq7xpkohxDtroO-jmIgyF3jTrJojNBSOTQpumZPYG_pt2yzcCrl3ZhKmx6RZbamFC3k-6SE5n_mtSHeLuf0boitYhtcyh2S-UpVwF4CcUowZyb5senPf9eMH9vjg-wkFwjeEQaosXREGW0oQzgFUgo-IWnMtHJAGvLka844uG4vjYMCkNR_MxqRjpIf1oIDbHWWDw6lGeUGe5a=w684-h1216-no"
+more: false
+---

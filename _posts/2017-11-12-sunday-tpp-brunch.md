@@ -1,0 +1,12 @@
+---
+layout: post
+title: "sunday brunch"
+excerpt: ""
+date:  2017-11-12 09:32:00
+tags: [tpp life]
+categories: [photos]
+comments: true
+image:
+  feature: "https://lh3.googleusercontent.com/52fLzDVFLs2HOuEa2SrLR9azN9ny6v7AcUW-v11L0gZM5bR2WDGc1qEumysbFdvLdJWjb2zeruxxGtCiEglSng-67uy9k9eWDyR90HABV6XWiSMGl_n3kiZ1cgenz4xExT1K29i9YJltHRGm13EMiVvd3OqFvXkE98w47PxwlJwaZJ7QGbC1O9UURf8h4lrT_Fn40IwIgQ9yENvbLbnSxnvnikpE_dlB-oHZ6BUd-1i6rwoeZC88X08VRDEaiFnxDKWxyr_qSiUg4NZZTvQY2ZLMfHT7kP30E6yqAJQjgVrJvQfPiHwCnxIHCiXgjhg3kwwy6MgYSICmlgQ_mGaaIXNljnt0G3FX3VSBgS39Dn7Czmh-mR3KWzhPwTOViELiuHVypNd2Qj9CJ3V_JOFI11Wo4a07npR2Yn5qyy-9rkY3Ondciq_txjQuYvHrZ-vexwlRSeK_zFOsRMU9oMCq2gZAe7D-Hff_PcuLtnX5ttkJxfls-DhScia2KiHnLSiln4p8xvoCpnz3EpUn8Zzu80n9ihpAcWAYA-yIMbI7I326tM0LNwPmvHK-yUapMn5dGqpcycKmXBVzWW9RZy6eNrCrblihDHIeeCHgL5zqgwClMOUnFNin8GGxg825RhxyFAz_X5-de8vHJn-0ngOdkZ8t_S5mCD_UMtCh=w1404-h936-no"
+more: false
+---

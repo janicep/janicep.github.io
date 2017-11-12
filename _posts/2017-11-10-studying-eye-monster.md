@@ -1,0 +1,12 @@
+---
+layout: post
+title: "studying shenanigans"
+excerpt: ""
+date:  2017-11-10 09:32:00
+tags: [ntu]
+categories: [photos]
+comments: true
+image:
+  feature: "https://lh3.googleusercontent.com/9lKbhA9Qux8Shk8_5nP7WJ9p5dMX51BuQqS0XuW04KtwG5wR3s37jANFB3ewi6ASixNGOno9Ej1CJsgte8U3PTxVFdsE1WBY-Hr0UctyB6FjBTIxpMsswupBL-c3Xd2PCneO39copz_UfqDkJ0S-yfGHGDfQbC0F67DYtg-PCFzmgFnsvDlzUQRTI4NhgcEgHgmEIVCE9EZ4i8jvxM50V9Ou073b9jVchR91Iy31hApCbP7GtESmLEpNOQaElGDPXpqbcNXGMwqK6NutItzQdQuqvm-4E69OCul72B5-x1Orit7kUyBAw7x_yUOt8a67GWVDeZu-rgYyQg39u88E_xlFr8pOPQewm6kQ6Y40tvdUHSHIZUIkgiZvoNAYj8jF7T0Rs_Oo5RoRxNoV6g20Vk7LVE3JLfNN_7qJgakIooJbVo3Uqt-QK72ByPp30DcGKPEJKkVbEPRcsjWavI6am5zd87-5_RLxO_0S_JV9TrJMVyF3j0GaIsK9Q4DRUnLtIZViLPEQEiVXcW6CGevVVw0NOtOKp6hxdlThyz3EuvyHmr7uB8OTjDN3VdA_RKkRM73W6hEcqxI_oy5wjTX8Nfcd4UzamOubtRL2mzRJb--oFcyz6Coqs2EterrTEnzA6uX32PTHEFhLid3D28zHWe22bdgeM9IgvsN7=w854-h1518-no"
+more: false
+---
