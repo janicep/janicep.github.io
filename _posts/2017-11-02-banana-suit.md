@@ -2,7 +2,7 @@
 layout: post
 title: "i am banana"
 excerpt: ""
-date:  2017-11-10 09:32:00
+date:  2017-11-02 09:32:00
 tags: [ntu]
 categories: [photos]
 comments: true
