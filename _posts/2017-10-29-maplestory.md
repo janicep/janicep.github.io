@@ -1,0 +1,12 @@
+---
+layout: post
+title: "get u some friends that can Maple"
+excerpt: ""
+date:  2017-10-29 09:32:00
+tags: [day]
+categories: [photos]
+comments: true
+image:
+  feature: "https://lh3.googleusercontent.com/SfHZVsmdM2GJ9hqwBNPOlwcsV7z1XvPBcZ3meoxkWcXqw0qea0btWLyhyvdsJE8d064apQOvpmk_GTLglA9kceJ-erWt2wRG3zdCJb1CV9xCPxcQFRDn7EHs-Jc5sMojhiaPAbPfT4PJAgEhPZglibUcnrzv7hFR3x-ye-DfdyobC06DXmD4ukK2HJxrfcaGqrtjmwwvjbgiARm5l9eFm4cyDFM68in9tidVSHejr_qBHS3j2rz39zGYOPEUwo44NTw7vC9LjXaoCtm7GwUTvKBKHGCpNPSapxlbnhBcHJA1t0bzVOERCTg_WN6orSz2LzA_ot4Qq0Flvr3aKSr8ACJnHWjPl-b27ybyCPzx06GHMkUMid_HDCrtLaiB4VnapVH_PrjpaCHqePU2osnvSaMl3kxos1XIE0HpYuI5zewKxWdLsuODUDA75kd-jeHwNhXXlbYopWnunqto-lmHnYPz8C8jsCiEb_NLdTSfXwfgEDRDzO8WaUsWIyYR0e6slBdqfZyTvXiywa9XtJFjUPAihlMFtgLPs57c6hGYKT0B9okO6M6diyMbv4OcIYoHiduru6L2Db5hGfnlYx5yX8wRAMeBrmzINZmerWjWuuPyCIFIoatJKfsBCCMLkG-oTwhDjTzsxuWuAis1zcnhTfxFNGp2nbASXrN7=w684-h456-no"
+more: false
+---

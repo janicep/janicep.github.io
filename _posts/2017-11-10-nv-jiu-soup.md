@@ -1,0 +1,12 @@
+---
+layout: post
+title: "soup: taiwanese style"
+excerpt: ""
+date:  2017-11-10 09:32:00
+tags: [tpp life]
+categories: [photos]
+comments: true
+image:
+  feature: "https://lh3.googleusercontent.com/NcvQn6tQchqZtnioZYubBjulLpWWEQ81JqzdM1ahpCP9tGSutoH0NnsxJmTGVceNV4sa8lNRbhs3sLbY5TibVae7T943nX-mNIguz3Sv1uYKiLiLroH06WnUYHM1UR6WGYYAT3BfidIVBSGzCGNsA39TNgPlgJyN0IWwB5LeCYLUnth6ZzPx30mG16taJ9refol4Mv05-V7qNXLSw7prCuV-U6T4P-yf9yJdVyxfesfsgWhm2rWttXIIeM4M9OVmn8d8ieJA-ACXWn-7Snqw_WdLmxBBu1MFV22-yLhkXQ7m5uDXo4wo_eCtolMQJ8XlJ-Kl2UD1LmTzNp81W8dkvfPWSOGsVKoeHUThyw6ttq68mEK2hDYzzewV69lKo9D0NgCl4gYCRWaNIW9B2nBHATJSLcpGbWeVvCEiBwFBsZKuHXPjEnOMG1qESXuf4DGW7-xS4Sodi4QF6q8iy2V__vm0wQVdxv0kg15GhelqHovCqs01QnN-RAQiTmizfJETpLkkP4aNJ26Vpiig1X7RM-0-WCYp_DMV53ZATDurKjRrDrAGhs-7oBjA98KoUILnzxCuevTO72Ngu0iEDk_cO3uZ3M74Z3Y91ipP4wPzvZTWq-qkmyBgx5v-grmPRkaiyHQtb-rF--nHnUGifU-kn1naJ86zmygAA36M=w1072-h1606-no"
+more: false
+---
