@@ -1,0 +1,14 @@
+---
+layout: post
+title: "the trusty 24/7 豆漿 stand"
+excerpt: ""
+date:  2017-12-11 03:32:00
+tags: [night]
+categories: [photos]
+comments: true
+image:
+  feature: "https://lh3.googleusercontent.com/Wj3ZSm8K9CgjywlP4DZRPgqd5NAZvT2c8CNMNxy20SIagU2W9bjxDu52XTLFp7bvHGdvJGVmLx_9AuqA46TC9XRDwFMHTtb3jukE8Ecjun6oheTzIESCPPPmickVfqU-BTAj_3NartvLNy8IKozfFj6EKb0leRWBnbHe488k3C1VJ2jCHceMFH6K92P45GJMKpItoMc1xbEDVKQCLEI8Io8e01uKYJvgRh4A91I2uBUh8N4mcPiT0jjBa0RJNo06u4TOf2PhxOOzzP3gclo9p-xtqB0D3qeIiE8r-9uwfYjs68oGOsKzla9RxumFbn9DG0Ti3XsnXdcKdlSdUfkFJ9S7YdFg9znX4T8CzdubI4VSa6Jsmezngf59f9638Q7RqDMDha7YNYlsYHLjCzIYxwlEsWQhDxHp_SJgjfQI8m7y8igBfhTkUr7bre-12HYL7NBelUT1aVsAh9dxNNulQKi_3rIDGU0VjFQz-TEViqt36fqHVvIPB8NDTRdPMU02F7OW5ufB3FMqWAJdxc7KvtPV8TAFaoUK-sus-b3VdjBn8xbUwm7ZthggwIwtdFP3u2oq9XJq1cUvwHWLy-qgteJ_nEwl75MAwj2XhOEUW1uBrDlSjaxKgxqBQ9RC5afLj5Cro9463Y2s5Cn2EIdMvTisEmj6K4WGsg=w1410-h942-no"
+more: false
+---
+
+
