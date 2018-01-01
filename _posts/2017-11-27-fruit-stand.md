@@ -1,0 +1,14 @@
+---
+layout: post
+title: "thank you, humble fruit stand"
+excerpt: ""
+date:  2017-11-27 13:32:00
+tags: [day, ntu]
+categories: [photos]
+comments: true
+image:
+  feature: "https://lh3.googleusercontent.com/y19aLdiiZ9Cd8we4GMD4aoDfRqJXHIrHDzGbsFuMa2xUmKFFLbEe1s5cTCqyTy93FSerWYoLRCQ93flwmMR7vJN5g1oPmlXXOtqMxILnW2hyVtoc25q-pdYc6lMzUaqmIymCiMa36RMwjg1FKRhUfovLo5YGyaUsigxH2moUFFw0QnU-HCffoxqdMjiDlUHYRT1XE2gjA6ZcNS0vPgFcR-m1RTqFFKqLq24hC9mRjkwVcxirOogAQ3baPkIB8gOnEZTS9h2vNlMd2-mjsv6gPsiXF1LBPjStGn9T6J8_mpR_7LYD4EnQ1HsoCV-nTxMB7vZCSWk4zz0HieKKx9dnG_MYBbAu7yJX6kzGKuGKxgd3x45OjcJ0veLAdEAZLpQB7u1wKmLLI2iV7Ps6Q__Ftugico8nTnMs6eSmrCxpH3T0uiWh64heN5foxi1SHWlfLR_WVqG8X5XQAhITbKPvvKVUIUvfsmkPrrGjUJUNriXxYp-znsobXsa8Ki4apo_0hcgocO9FaWlDKMCDuNyYlcYyRv58D51ZL9Vhr3lFcFhvVDX3euRlgj3XOKU5Mto2KucuFpN1gW2_hSRvlyeOG9N9WcOEKR1p_6mbj1RrIpkSSiYz6MSL3iES2faAUjWZmWsP8C3s5oxpVaPzLecI6U7rn-7XClB4dg=w1410-h942-no"
+more: false
+---
+
+

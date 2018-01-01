@@ -5,9 +5,122 @@
     <description>my travel log</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 Nov 2017 10:00:59 +0000</pubDate>
-    <lastBuildDate>Sun, 12 Nov 2017 10:00:59 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Jan 2018 08:07:31 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Jan 2018 08:07:31 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>christmas party 7th edition</title>
+        <description>&lt;p&gt;Photo by Curtis.&lt;/p&gt;
+
+&lt;p&gt;We all made it back! Another year down.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Dec 2017 20:32:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2017-12/christmas-party-seven</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-12/christmas-party-seven</guid>
+        
+        <category>california</category>
+        
+        
+        <category>photos</category>
+        
+      </item>
+    
+      <item>
+        <title>sevies... now college graduates</title>
+        <description>&lt;p&gt;Photo by Curtis.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Dec 2017 09:32:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2017-12/lcbc-christmas-sunday</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-12/lcbc-christmas-sunday</guid>
+        
+        <category>california</category>
+        
+        
+        <category>photos</category>
+        
+      </item>
+    
+      <item>
+        <title>talking about some stuff</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/KvbiTaZbBrbTVFPQTjIcfKqkPGO-QJar0CpoKXumn88wXjvRnofcLYTDT-yByJq9dlMkSgadsDawG2E68-EZUR6ChDdr_FXVVS_ZBps_PyPn9rMbksSAxuOL8xsa-YWo8JGK4nSGXAmlWdIi66fdPokLEcP9T-V4hInohLaEn9qNfNkk_oQEnxjJ5Pce4Bar4e1t2n44qN6H_AfjsNCmjLEEiT2nh5UyEeXG1PZfxgUtHqIRz2F8IEjqGH24KYbhkJgIZqEXBiLRY5NiJZtCt4_XCZKCi0VmohB41KpGrC6DOngmJNe4jjTbBPQdn6P1FIBnUJBJPs3yI5COEHHoxrcuEA2fM7uW-LFvVpZ80l3ptxN0tRhAyxPjAuMcuxNpGi-kGmqTFdcpqWoPrDDBi5yRmr1aznasa6nQO22uXDICIzE4no7AZAsmMcGOnr93BQ9Zhqk80kc40Bzv0O3Xdlj-7jabPkuoJ2hMftWRlvi-y9_FKqjh-niIoW3g2XBri0b5wYlBzRxRDDOFpiwgabtNQ25Hs_JmnR5110ciAvYqR0kd1bQVZwpapuHdu1AGdGMJ5CGneoX7zllUdh1bC2vji9dQgq8pQ7YZqfvgpObkF70QHkgNFfuNJjX0naimSsSDmT6cJ16DABIM2qTJJnhsjHZHqWgtug=w1410-h942-no&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/Cdb88FGLAZ5vQWOuRjUiM5ovLy1X4pVkFxzG18Xi_A5L0k7ayMDv0opx9n-fSdTgIh47h-H1pcgkkwmxZZ9V-p7xoTuYycY8wSg2myejQhpMON_ykkH7FTQk25noBmCG9_QB7seZ2pIe28JcI6tLckMC5kCzu-ZjI9Un-10QssDHg2YLGtFGeYlLgJ4AIfW9o003LKCTjs8reObgTvrVep2MdBdZ5Qroy2px7FnCdpHGeiOldOB2kVCnUnPBl_VTGSytGwQ03YvgCEpYRXc_XUIXgdB_LryJrOkeTmMFxbKKWXQgs5hmbz-r2EoseKPoLLHRHQizbO0M1XKGBeWXVIKyj2xVz3ihnh1d0XEn-Q2v-HqWQU5iCGnWYKAGe6D_bQtKKImOF5aX_zSB0TlQlo000NPPY0c11ba0bXbKxNhU2w4d_ke3R2y1-BnUH_1s18-BhaF6SkllNnWobZIEqB6ON9BcjoUmPH5i-TakfNftxzd1VeYTtX0JOZHqXsNlb1co0_UofmY1jaTTDPBFYb2HVLevyZ9BCgdU1lCBWxxXpVTmLsTqSWPo50Lfk2mxxWkQni8bOeDsS_qh5M09PUwA96EotR980HpWQvLbda0tFOb5pZmOmOK4WLgItj1jBkBAa33-cDooy-idl6uMEcx0vsb5GhU0sg=w1396-h874-no&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Photos by ICLP.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Dec 2017 14:32:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2017-12/end-of-semester-speech</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-12/end-of-semester-speech</guid>
+        
+        <category>ntu</category>
+        
+        
+        <category>photos</category>
+        
+      </item>
+    
+      <item>
+        <title>secret santa @ICLP</title>
+        <description>
+</description>
+        <pubDate>Tue, 12 Dec 2017 20:32:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2017-12/secret-santa-iclp</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-12/secret-santa-iclp</guid>
+        
+        <category>tpp life</category>
+        
+        
+        <category>photos</category>
+        
+      </item>
+    
+      <item>
+        <title>an... anime convention?</title>
+        <description>
+</description>
+        <pubDate>Sun, 10 Dec 2017 13:32:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2017-12/anime-convention</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-12/anime-convention</guid>
+        
+        <category>ntu</category>
+        
+        
+        <category>photos</category>
+        
+      </item>
+    
+      <item>
+        <title>stopping by the pool again</title>
+        <description>
+</description>
+        <pubDate>Tue, 28 Nov 2017 13:32:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2017-11/ntu-gym</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-11/ntu-gym</guid>
+        
+        <category>ntu</category>
+        
+        
+        <category>photos</category>
+        
+      </item>
+    
+      <item>
+        <title>thank you, humble fruit stand</title>
+        <description>
+</description>
+        <pubDate>Mon, 27 Nov 2017 13:32:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2017-11/fruit-stand</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-11/fruit-stand</guid>
+        
+        <category>day</category>
+        
+        <category>ntu</category>
+        
+        
+        <category>photos</category>
+        
+      </item>
     
       <item>
         <title>sunday brunch</title>
@@ -46,125 +159,6 @@
         <pubDate>Fri, 10 Nov 2017 09:32:00 +0000</pubDate>
         <link>http://localhost:4000/articles/2017-11/nv-jiu-soup</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2017-11/nv-jiu-soup</guid>
-        
-        <category>tpp life</category>
-        
-        
-        <category>photos</category>
-        
-      </item>
-    
-      <item>
-        <title>WOW YES SO GOOD MIND-BLOWN</title>
-        <description>
-</description>
-        <pubDate>Thu, 09 Nov 2017 09:32:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-11/stoppage-time</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-11/stoppage-time</guid>
-        
-        <category>food</category>
-        
-        
-        <category>photos</category>
-        
-      </item>
-    
-      <item>
-        <title>wall-sitting x cramming for dictation</title>
-        <description>
-</description>
-        <pubDate>Wed, 08 Nov 2017 09:32:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-11/wall-sits</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-11/wall-sits</guid>
-        
-        <category>ntu</category>
-        
-        
-        <category>photos</category>
-        
-      </item>
-    
-      <item>
-        <title>studying shenanigans</title>
-        <description>
-</description>
-        <pubDate>Mon, 06 Nov 2017 09:32:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-11/studying-eye-monster</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-11/studying-eye-monster</guid>
-        
-        <category>ntu</category>
-        
-        
-        <category>photos</category>
-        
-      </item>
-    
-      <item>
-        <title>another family dinner</title>
-        <description>
-</description>
-        <pubDate>Sun, 05 Nov 2017 09:32:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-11/family-dinner-tpp</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-11/family-dinner-tpp</guid>
-        
-        <category>food</category>
-        
-        <category>tpp life</category>
-        
-        
-        <category>photos</category>
-        
-      </item>
-    
-      <item>
-        <title>our own harvard-yale reunion</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/2EzhURn4OgqRWUKVzBdoeGO-L6Rx_e25KrAWB-aHC_zmF37MdJ0wo-pEUQiUJUsjTnfxN26qVFEqzCFMyirJugyckNyVN8sbtO9KLBO7_sucwTDej6gNRjxU7x4silB-H4Ma9o06HWbXXsdLkF9uk57TY4P74ji0zw2ME0aucDmrhbOHa71nmFEWKUBGaNgUuNw9MFadaeZAHPg5z3YEWRx_wSc33XS-c6JbWed0XnxUmE5W6w14RlfU5v84SKGTb_61ddmbmD69zDb4x2mG9paaVrT0JSd6VQ_KunkiW2z2jM6U5zs3Fd3iU1uXOT5UYyId2FPxRdgDvflTjY1GKxvzY25iacUksI0c7JSTgPBDoAJvsO90VvDkMZMdHovT4kPE3BNkh31Dx_7h0v89w6LdSRYRw8MGvzNaZK-yhet9MHeggQ_nkFf6qkGVKCqAkN3jnJelWzlr4ADZ9_YhYyM8WP0Xxf95yV1wbiXwOeANvN2Db63y-pR5Y2el3PFhtD8DwtvtXdGYzFxuss5zor5uu2UoLN0f3559VBjXM1nkjWbUCBx2of5XOPjyyWug0vAx2uyov7-d307BApYNOGpDgQdlXOVy5LfBr1Z5kmf4kto7LbiP6TJpPfgBsyyvjnJ0IH987fTsWPCtGwEv32KmbX46yewBp4qs=w405-h607-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/SqXfJkfJiMgjtrSwDd9Cq9YWgmvRM_ahizzX954Cv7fD4wQfSaARt15hLU2EeSusOPD8UoY_9Cm6mcb0lIKEINOmAvPGY6xTBoowhl-eCQF4shziUf1EQ45IzayA-sn21--z8BCktX8P5z8tPPP_tCIy0WjOzgm7FavrlRJl9k86eojVRWiUuB5AvVA1VD-ao7xqarH7UaQ5_5ze4Jm6flXA5bwOZz4sRQRF5cxSuNX60tsjCYVV2_3ku3SMMu5knbRnFTvDwZD6L6iM6lN3-LHxdHgH3WPBKo238za3RcAy8FfssAZQQ-mG9SSjrZuoUVdJfTVJVf8F8tKtww2y0zj6eoCcoaFBCOebBIxUi7uv_UGrdapjQlu4iSOQ5IdsmutDkubPv9nwBXXiWJLb9u29jBOXDucvqCqNCusHVNDFmWWxonCXYy6yLSuHaMzr-stGe2PEOtDgjAggWP_eX_ApqoRqeVcjMbGAopDAOH6q-NX7Mo2Dt0lPRSNMSxF4CE6_HyDU54rl-fma5sUZ73Cc8LMrDQ5WrXJ7l5YO5Ya-CZgpRpcoUt2LFDyNML9-d-nUGHkXX7A2ktHElxmZdV4CsZs9tcngwpjC9lw4qJFx2cEL9iTolObT8V4Dity2Drg55kN8_7sGec_mHiApr3sk8h44HVAn7Ne3=w405-h607-no&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 04 Nov 2017 21:32:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-11/natalie-visits</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-11/natalie-visits</guid>
-        
-        <category>day</category>
-        
-        
-        <category>photos</category>
-        
-      </item>
-    
-      <item>
-        <title>no peanut allergies this time!</title>
-        <description>&lt;p&gt;we finally made it “out”!!!
-&lt;img src=&quot;https://lh3.googleusercontent.com/hLGoLtvTHfaJv2Gv0BNyhIVwd3UikkKv7DWTuH47G2maqXMY9y4XqvtO6p5hof41wJsivDg-RNsxgggjOSsDcGUrAGj4DadiJqC2GvUhVJ3XOZCwDiHzcgBmXve1pwpkDeB1ouMGDEL8HE_g5cKz_RWnOf38a5VZIN7r_5vAoN6_8zgP6hoDv9swD9yMIY5_LF4S_pDrLSJJ83MBKqyvtJTPUoVn8TKTzuZw9bIvl-F9r3c48kTViregnJ1txR25ueG14Hi6wj3kUA6z5DaGtXeDogBogc0w5Fol-2ChUatmBRFQDuGUweLsLvWQzKJHZ77j0coiH8Ey7PDQ3Efgn9Lr_YPOxeYDTr_oyRswBRDI4twzfpCxi5wfycn6SlXExqVpkmJnMHQ8VtQqdH97T7-_g7yqAyVQ09YxnpZC_xBQRHLsEtKuGDzGYvagk7tgLla_tISieLXkodr0S6mA1iT4XNpwHp7AE4-wCasDg5DlDDc8xMWU7M6ydoO1kXaP5QnXlPzZ6wihtWuS-ICzPTKoc_NOpSvTL9dbZBvwmZVy56yaF0izLAWM5Ctx4nRjXQla--1PJje4jQhWhOBdBPV7jJlMIggmdWQMvz-21TkPZFxpsv1aL2fbBQGKus7Ux0i1XzOSclYuysKj4NI8F9X63wnsBx89Gq3V=w909-h607-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/YE_uUmjh3K4ELsY5hWc5GHt8YIBcuNZKYlnnuoqhlnhU3rjBF0Cr9QOy2uKmXqOGWdBDwX9boTrHjGPE3qCcwsys917B9lGppTS_vhEuGGeZmbmKlwdMQ1BLY1MIqnrSrooaeuvL8yPX6tFOMY0t2MHQ1DffbHzyknhTe11IPqMK4Fp6ZGyHIpMc8ftgX07BIg6eA5aX0mOTBwS0EO32Zgvr7ZcJByZB_KQTntbeNXf0Jx9pV34tRD37iVHue5PIDgMt3x5bcTC7X9x5tIqeGglotsWdYWdc5dOnX4-Fz6XxaIVyJo-gBa1VY01b3mDoOtT1dL54L-j48xNaD0DyMttJ4_VxeHgEuhOr2xGOGWxwF28-kTQw5wzmzDp2dhN07q3bXfPKpp49wcg2DFb94Hbb6rnP97TwhDOpht5fXdNvbO1GhSkXYx4on9Ads9udSrxvLPWiAq17NDUy5K4qmR5lB1UNS0lKCw4UJL5O-h_h-IEcBZdf-xdAKnGpn20rAhvdbC2ReEyYFYwpw2lHsgAgF7SGKCdOlqIlfZQHSYeJDUg729L9srysnlomrr0QjRw_IKchpVDXQOtc3zuqcJyY0h7yWB0dc2QeCoZWupxhq7LQhIHdH75yj-rOqKqmZ-rabUmAOaLFDT_giQg0kUew908zLOmxzsl8=w909-h607-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/TXrSx4_B4XYOfNSeeOcuUankjKg7qkdeBAktCQmVX3wWQdRf2UHzeNKijBRLhE2iAkC71ulDUqklI6kvnF-Gwo9x_6jHyQuw7YNGfRdTyQXFOc505dFDmnqGZv4eLSVHx9IQvbj_iHja45Jt4mvXQqW8hptVly1Prdfspsg7h7xQtJF2bwxYX6X6ur8ZfZMg-ltVasKDA0YyRmo0IkfOoQHYhtd2mU0f6X8gBi746iWGEytDcRkAocihTInW_bfh6DY1On2dhqATUqouhaghnnqv7fA_nsKBrGHjb7iYVICa1WBFvQVbwd86AoTa1E-rAd38rd7gO1LghUpmXGmkcbz1FqPsE_sa7EAh9PG4ZFibXMGJ5sxPkQeGC6W4JNCWDnAWHPz93NkrTMW8SWVge8nHF0uQ3dpzzuoQtGvNzxsCMGd7dN6oODZCzGB1btEchlwJdzfOHmotHT9wB3O814Q0s-DGpCfDposcA_EZMJGpUCmznRcZdm4ueKecQ-IiCsd-2Di6yNqC9ZrVfClJeeBLGZWMCjDe-3V2EnLUDSaBVneWj_PNQYSV3RncR8UOtqRorLIxBA0bJWjb2Dc235cVhC7OlgX6oRZzx6H9yAOoSB3aFsDuNPsKZ7bF7X0oyqs8dq8N9nXML55pGn3exUo2LUW6-4kWNdG4=w909-h607-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/n0Yf60loK5VAaUdWqIHE20miBq7OsJc7icElq3l0mjxr7D22WSmA6-leMcYdXdMfvXwO7Ud_kLHH4VhGogeu1XmIokKoQNju83Gp0GJ_kx_7f_sDGKqyXOvg-ehiHZuHXTKjN7K8bO11yEt_oPyGr3pemSQh51QUIIlUnlW85hxKdZASBG99auUn9kOA0IPPhsGaoSTgzB7VlIIwrNm71AOLJrFkmQyDiySi8qslWV9-5RNWahe_3V7il9LYQcIRYuRsib9pEe-Q9LBPXZZeytprI24cEsVRetRxslSocSJKciQxKvFIEKYXjiUD1rie23bSRPLdSmWfE1-0fo_qeRr8Ya_Zf3xaCB1jZXwc7xkTIeGo5J4KBi8IpcfKuWLb9MDPSklzaB1G-u6fAyk8gW9B-mBAyflYOZcH3LcefsaMZuDgu46Z7iwyegSuMIyPydnt5j5Wm2CU2K44eLnE-atYPxK_PCM2TID9Quj818fswb88Bbe29Snx2lDGej_LtS0rl9mnyoryUg36mlNBUq-HLfAW3GnITnSc2dEKJOcZA_fgpsMJT-P2KbwyXTWaPc1iaTXwxc8JLwFLiDzHdnUTPPyqgocpmoiWmfYaIwWBzuWURgLhyMFvUjdVlMvFUNW2pIAMtk3pqng49HkAVP1ey7f-SRbocNo8=w2088-h1394-no&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/k0vAL6b3MNwoKYkL4rVy2kgfKmtqqe4ohz-_U_abm_Ulgc1QPztBTTU44NFF7_TTIDGSoMxq7FY9Pb3fo7Q-XcctJwHSYqCmCcwkVBbWrzEZki4DWVLRf_pQcThYZi3Vut7eCyZnDqR63IehDi2rid6zSNHixzm7CrlFw2NTsarMJ9KohPXE2wXoEHkXeVpbBDSwErq2MnVPeI0M8kzosXgz7ysbulwlgv7NgoTqAL8F51nW-1cDTEUuu3ymCJQWK-VdNzZmhVVhohdKbjMyYvssDRMjRHJA_aRc-yBjbtK742xSbDIKcIzYL0lYa5M2UR84koGFWmvR77gFVv-g-VdOGnIgvxkC7dia7w2uipLMvdDr5vhYAMxsh44cpCErySLTLeSkbznI1wo_Hblmklo67op4aGDY_Sknbcrm1jSx9HgDbltnUgJLxaEMZdyjyxOOluztGSCOSON0iWILg6ZjBepolS4cZAcFY5bqSmLuhajdPVfwr3dmkIU0giCdTw7oGZsCasqEmcKqO9P3G1X8q5m-rqIwxCRjI5fD5roKl6FfN24hAplL7duoFIazZ5zA3ssgnPaFXuCneQyYPE_bJI7tma_VgGrhYg_4x0kfikvI1PTTHODn3XELYg0hicO_t7ZAnadF7R5fAy2w-Rg3OrERL49RbZsZ=w910-h607-no&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 04 Nov 2017 20:32:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-11/gou-yi-xia</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-11/gou-yi-xia</guid>
-        
-        <category>night</category>
-        
-        
-        <category>photos</category>
-        
-      </item>
-    
-      <item>
-        <title>2 lil snowwomen</title>
-        <description>
-</description>
-        <pubDate>Sat, 04 Nov 2017 09:32:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-11/snowwomen</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-11/snowwomen</guid>
         
         <category>tpp life</category>
         
