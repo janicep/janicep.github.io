@@ -1,0 +1,14 @@
+---
+layout: post
+title: "good morning"
+excerpt: ""
+date:  2017-12-04 12:32:00
+tags: [tpp life]
+categories: [photos]
+comments: true
+image:
+  feature: "https://lh3.googleusercontent.com/kGBOMi824NYVYfGS8OUEVdfcjgmlZtuW3kjQmlzRWYDEsnpVIccdMqqIoBEbpjwnZpY6E5Jwp-GRo6WkC5LsHiAmcoSA4x_WI3enCu7ZF6ncVjYWzs1wI7uPX5qD8jP3XZWOezkIoZynUqDAfwtq8ANCWiOvo9-aOf7i7kIC397a2QW__NhikPJaLE-Uc6cjqg4oFvtDFT-vpDuSe2MyhVcWRWPoHuUqRGERM97QZ5P2rONv1myfSrIKi16WbzXU4Vh1Fhga2v-tMcaHkeQek6oO9vKAosQ-3d4nFZu-hBwNj5hgMAwXB7ej7s_uksA1TMmv6mbpIvjUU7PgNIDL6vCNW1JQpVIa7tMODXbMvpx-t8YIeWj1Nx7EguargWWQDBmb9JdqhaF0-jfr6j_Bs4uSVhXcdauDh5eLgX9vdg1OXihI1nCbIN4v2PUjionaf7DwcoUtnochZNO1bmpwgiD8pGs0vNby9kBSM1liVmVjYsNXbDz6HTi8l6Cc0SB6DhxBx7LSeuP4MMoS7Tv74e30Wonqd-gXVVTsjGdvuIBCW2wGWmw4EzResMJ1d8eUEGc9jhU8c_puSql6pSx4f9AlqHgzZa45pYFa1dLuC7nTvvGfWiPu4hUp_1v2N0YmKFQP1jTNTzC8-Dpo22u8aaCq85VkhqJhHA=s720-no"
+more: false
+---
+
+

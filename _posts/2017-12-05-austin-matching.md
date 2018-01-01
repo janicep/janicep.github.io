@@ -1,0 +1,14 @@
+---
+layout: post
+title: "who wore it better!?"
+excerpt: ""
+date:  2017-12-05 13:32:00
+tags: [ntu]
+categories: [photos]
+comments: true
+image:
+  feature: "https://lh3.googleusercontent.com/r0wz-GsnsEZxEbJVSSTR2tqzbJ0LuP3zUgN8pimqDHcp2a9d5oI8tAJbWuTwb8f9waWMDadNZsHrV-ms3RDk0xd2q7xAHHp0ePNke_ULlx0nHI46ArfToYYxZmjB0Kq0vMCu_UFw8BlbfveptlYBcltRoGV34_mZthAl6afeRTUftD9I2q_xNJGsYKomZxkmBZrHBT6jk7PwB45kCBSuHpypA6iP1Q3UwHb1UYcm80lStml_h2vzKBEyUmn9Okv7qzv9D0lFO7DYXlNVlfT1MHrkPoGabkFDfngIx7wbpR7Mb8oFKcmFSXA68lVCODv5giKePCGKnC3uIgyUb6X8afB7X_XSvrubRIRK2G9-yR9r6zzfzDID3UQMiMxeXHm4h_ubuTRGkEo4vIghdub4_Z5Um79Hb8VxsGymkvaNwwNE190JDqNv6liCjXSi9ZoFhpwWL8OijAOUtlH8oNWLDkUR1l5DpDXmSS3rs0rNOFPy8qBQ-28kEt8MHDjYwCy1J8TSwIxFis7ID0ETNbvlQ56M1INNHqAsIdmhH-FHZol1g3nhEJZU3Cisgj8Z0Oav6XuGyeVk9uEudAtgTOo30COUUoddsDAT8TL4CFHPBbvo4amMg09cjsQLP5B1sFW1wQAzHqkWximmxYVdJMMurmp3_PquWG2vwg=w429-h642-no"
+more: false
+---
+
+
